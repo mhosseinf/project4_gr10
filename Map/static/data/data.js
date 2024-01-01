@@ -1,9 +1,9 @@
 var alldata = {
   "AN001": {
     "stationCode": "AN001",
-    "latitude": -29.063612,
-    "longitude": 114.997161,
-    "Route trip": 3,
+    "lat": -29.063612,
+    "lon": 114.997161,
+    "Routetrip": 3,
     "Date": [
       "2023-01-01",
       "2023-01-02",
@@ -461,9 +461,9 @@ var alldata = {
   },
   "AM001": {
     "stationCode": "AM001",
-    "latitude": -34.270827,
-    "longitude": 118.268523,
-    "Route trip": 4,
+    "lat": -34.270827,
+    "lon": 118.268523,
+    "Routetrip": 4,
     "Date": [
       "2023-01-01",
       "2023-01-02",
@@ -921,9 +921,9 @@ var alldata = {
   },
   "SH002": {
     "stationCode": "SH002",
-    "latitude": -32.12548,
-    "longitude": 118.00406,
-    "Route trip": 0,
+    "lat": -32.12548,
+    "lon": 118.00406,
+    "Routetrip": 0,
     "Date": [
       "2023-01-01",
       "2023-01-02",
@@ -1381,9 +1381,9 @@ var alldata = {
   },
   "BA": {
     "stationCode": "BA",
-    "latitude": -30.338049,
-    "longitude": 115.539491,
-    "Route trip": 4,
+    "lat": -30.338049,
+    "lon": 115.539491,
+    "Routetrip": 4,
     "Date": [
       "2023-01-01",
       "2023-01-02",
@@ -1841,9 +1841,9 @@ var alldata = {
   },
   "BP001": {
     "stationCode": "BP001",
-    "latitude": -33.7962,
-    "longitude": 116.06398,
-    "Route trip": 4,
+    "lat": -33.7962,
+    "lon": 116.06398,
+    "Routetrip": 4,
     "Date": [
       "2023-01-01",
       "2023-01-02",
@@ -2301,9 +2301,9 @@ var alldata = {
   },
   "BE001": {
     "stationCode": "BE001",
-    "latitude": -30.47333,
-    "longitude": 117.88111,
-    "Route trip": 0,
+    "lat": -30.47333,
+    "lon": 117.88111,
+    "Routetrip": 0,
     "Date": [
       "2023-01-01",
       "2023-01-02",
@@ -2761,9 +2761,9 @@ var alldata = {
   },
   "ME004": {
     "stationCode": "ME004",
-    "latitude": -31.7285278,
-    "longitude": 118.2979722,
-    "Route trip": 0,
+    "lat": -31.7285278,
+    "lon": 118.2979722,
+    "Routetrip": 0,
     "Date": [
       "2023-01-01",
       "2023-01-02",
@@ -3221,9 +3221,9 @@ var alldata = {
   },
   "BC001": {
     "stationCode": "BC001",
-    "latitude": -30.818056,
-    "longitude": 117.864758,
-    "Route trip": 0,
+    "lat": -30.818056,
+    "lon": 117.864758,
+    "Routetrip": 0,
     "Date": [
       "2023-01-01",
       "2023-01-02",
@@ -3681,9 +3681,9 @@ var alldata = {
   },
   "BB001": {
     "stationCode": "BB001",
-    "latitude": -30.59319,
-    "longitude": 116.3527,
-    "Route trip": 4,
+    "lat": -30.59319,
+    "lon": 116.3527,
+    "Routetrip": 4,
     "Date": [
       "2023-01-01",
       "2023-01-02",
@@ -4141,9 +4141,9 @@ var alldata = {
   },
   "ER002": {
     "stationCode": "ER002",
-    "latitude": -28.512249,
-    "longitude": 115.216534,
-    "Route trip": 3,
+    "lat": -28.512249,
+    "lon": 115.216534,
+    "Routetrip": 3,
     "Date": [
       "2023-01-01",
       "2023-01-02",
@@ -4601,9 +4601,9 @@ var alldata = {
   },
   "BX001": {
     "stationCode": "BX001",
-    "latitude": -31.398,
-    "longitude": 116.101,
-    "Route trip": 3,
+    "lat": -31.398,
+    "lon": 116.101,
+    "Routetrip": 3,
     "Date": [
       "2023-01-01",
       "2023-01-02",
@@ -5061,9 +5061,9 @@ var alldata = {
   },
   "BI": {
     "stationCode": "BI",
-    "latitude": -28.051,
-    "longitude": 114.69575,
-    "Route trip": 4,
+    "lat": -28.051,
+    "lon": 114.69575,
+    "Routetrip": 4,
     "Date": [
       "2023-01-01",
       "2023-01-02",
@@ -5521,9 +5521,9 @@ var alldata = {
   },
   "BI002": {
     "stationCode": "BI002",
-    "latitude": -28.014442,
-    "longitude": 114.406062,
-    "Route trip": 4,
+    "lat": -28.014442,
+    "lon": 114.406062,
+    "Routetrip": 4,
     "Date": [
       "2023-01-01",
       "2023-01-02",
@@ -5975,9 +5975,9 @@ var alldata = {
   },
   "BR": {
     "stationCode": "BR",
-    "latitude": -30.599684,
-    "longitude": 118.531384,
-    "Route trip": 0,
+    "lat": -30.599684,
+    "lon": 118.531384,
+    "Routetrip": 0,
     "Date": [
       "2023-01-01",
       "2023-01-02",
@@ -6431,9 +6431,9 @@ var alldata = {
   },
   "DB002": {
     "stationCode": "DB002",
-    "latitude": -33.486286,
-    "longitude": 115.72515,
-    "Route trip": 1,
+    "lat": -33.486286,
+    "lon": 115.72515,
+    "Routetrip": 1,
     "Date": [
       "2023-02-14",
       "2023-02-15",
@@ -6889,9 +6889,9 @@ var alldata = {
   },
   "BO001": {
     "stationCode": "BO001",
-    "latitude": -33.7599,
-    "longitude": 123.124725,
-    "Route trip": 1,
+    "lat": -33.7599,
+    "lon": 123.124725,
+    "Routetrip": 1,
     "Date": [
       "2023-01-04",
       "2023-01-05",
@@ -7345,9 +7345,9 @@ var alldata = {
   },
   "BY001": {
     "stationCode": "BY001",
-    "latitude": -34.382888,
-    "longitude": 119.32666,
-    "Route trip": 1,
+    "lat": -34.382888,
+    "lon": 119.32666,
+    "Routetrip": 1,
     "Date": [
       "2023-01-01",
       "2023-01-02",
@@ -7805,9 +7805,9 @@ var alldata = {
   },
   "BN001": {
     "stationCode": "BN001",
-    "latitude": -32.3868,
-    "longitude": 117.01348,
-    "Route trip": 4,
+    "lat": -32.3868,
+    "lon": 117.01348,
+    "Routetrip": 4,
     "Date": [
       "2023-01-01",
       "2023-01-02",
@@ -8265,9 +8265,9 @@ var alldata = {
   },
   "BR010": {
     "stationCode": "BR010",
-    "latitude": -17.86165,
-    "longitude": 122.4161,
-    "Route trip": 1,
+    "lat": -17.86165,
+    "lon": 122.4161,
+    "Routetrip": 1,
     "Date": [
       "2023-01-01",
       "2023-01-02",
@@ -8725,9 +8725,9 @@ var alldata = {
   },
   "BJ": {
     "stationCode": "BJ",
-    "latitude": -33.270855,
-    "longitude": 115.79648,
-    "Route trip": 1,
+    "lat": -33.270855,
+    "lon": 115.79648,
+    "Routetrip": 1,
     "Date": [
       "2023-01-01",
       "2023-01-02",
@@ -9179,9 +9179,9 @@ var alldata = {
   },
   "BT001": {
     "stationCode": "BT001",
-    "latitude": -29.93843,
-    "longitude": 116.34875,
-    "Route trip": 0,
+    "lat": -29.93843,
+    "lon": 116.34875,
+    "Routetrip": 0,
     "Date": [
       "2023-01-01",
       "2023-01-02",
@@ -9639,9 +9639,9 @@ var alldata = {
   },
   "BK001": {
     "stationCode": "BK001",
-    "latitude": -30.52964,
-    "longitude": 117.18067,
-    "Route trip": 0,
+    "lat": -30.52964,
+    "lon": 117.18067,
+    "Routetrip": 0,
     "Date": [
       "2023-01-01",
       "2023-01-02",
@@ -10099,9 +10099,9 @@ var alldata = {
   },
   "SB001": {
     "stationCode": "SB001",
-    "latitude": -31.587553,
-    "longitude": 118.698667,
-    "Route trip": 0,
+    "lat": -31.587553,
+    "lon": 118.698667,
+    "Routetrip": 0,
     "Date": [
       "2023-01-01",
       "2023-01-02",
@@ -10551,9 +10551,9 @@ var alldata = {
   },
   "CE001": {
     "stationCode": "CE001",
-    "latitude": -28.849235,
-    "longitude": 115.996978,
-    "Route trip": 0,
+    "lat": -28.849235,
+    "lon": 115.996978,
+    "Routetrip": 0,
     "Date": [
       "2023-01-01",
       "2023-01-02",
@@ -11011,9 +11011,9 @@ var alldata = {
   },
   "CL001": {
     "stationCode": "CL001",
-    "latitude": -33.60946667,
-    "longitude": 115.6406667,
-    "Route trip": 1,
+    "lat": -33.60946667,
+    "lon": 115.6406667,
+    "Routetrip": 1,
     "Date": [
       "2023-01-01",
       "2023-01-02",
@@ -11471,9 +11471,9 @@ var alldata = {
   },
   "CE002": {
     "stationCode": "CE002",
-    "latitude": -29.69999,
-    "longitude": 116.14498,
-    "Route trip": 0,
+    "lat": -29.69999,
+    "lon": 116.14498,
+    "Routetrip": 0,
     "Date": [
       "2023-01-01",
       "2023-01-02",
@@ -11929,9 +11929,9 @@ var alldata = {
   },
   "CA": {
     "stationCode": "CA",
-    "latitude": -24.851402,
-    "longitude": 113.731443,
-    "Route trip": 1,
+    "lat": -24.851402,
+    "lon": 113.731443,
+    "Routetrip": 1,
     "Date": [
       "2023-01-01",
       "2023-01-02",
@@ -12389,9 +12389,9 @@ var alldata = {
   },
   "CA001": {
     "stationCode": "CA001",
-    "latitude": -33.495591,
-    "longitude": 121.137904,
-    "Route trip": 3,
+    "lat": -33.495591,
+    "lon": 121.137904,
+    "Routetrip": 3,
     "Date": [
       "2023-01-01",
       "2023-01-02",
@@ -12849,9 +12849,9 @@ var alldata = {
   },
   "CS003": {
     "stationCode": "CS003",
-    "latitude": -33.13,
-    "longitude": 121.18686,
-    "Route trip": 4,
+    "lat": -33.13,
+    "lon": 121.18686,
+    "Routetrip": 4,
     "Date": [
       "2023-01-01",
       "2023-01-02",
@@ -13309,9 +13309,9 @@ var alldata = {
   },
   "CS002": {
     "stationCode": "CS002",
-    "latitude": -33.3588,
-    "longitude": 120.71417,
-    "Route trip": 4,
+    "lat": -33.3588,
+    "lon": 120.71417,
+    "Routetrip": 4,
     "Date": [
       "2023-01-01",
       "2023-01-02",
@@ -13765,9 +13765,9 @@ var alldata = {
   },
   "CH": {
     "stationCode": "CH",
-    "latitude": -28.457779,
-    "longitude": 114.776781,
-    "Route trip": 3,
+    "lat": -28.457779,
+    "lon": 114.776781,
+    "Routetrip": 3,
     "Date": [
       "2023-01-01",
       "2023-01-02",
@@ -14225,9 +14225,9 @@ var alldata = {
   },
   "CN001": {
     "stationCode": "CN001",
-    "latitude": -33.752886,
-    "longitude": 122.301357,
-    "Route trip": 3,
+    "lat": -33.752886,
+    "lon": 122.301357,
+    "Routetrip": 3,
     "Date": [
       "2023-01-01",
       "2023-01-02",
@@ -14685,9 +14685,9 @@ var alldata = {
   },
   "CP001": {
     "stationCode": "CP001",
-    "latitude": -33.74698,
-    "longitude": 121.281884,
-    "Route trip": 1,
+    "lat": -33.74698,
+    "lon": 121.281884,
+    "Routetrip": 1,
     "Date": [
       "2023-01-01",
       "2023-01-02",
@@ -15145,9 +15145,9 @@ var alldata = {
   },
   "CW001": {
     "stationCode": "CW001",
-    "latitude": -29.93692095,
-    "longitude": 115.9720375,
-    "Route trip": 4,
+    "lat": -29.93692095,
+    "lon": 115.9720375,
+    "Routetrip": 4,
     "Date": [
       "2023-01-01",
       "2023-01-02",
@@ -15605,9 +15605,9 @@ var alldata = {
   },
   "CD001": {
     "stationCode": "CD001",
-    "latitude": -33.538306,
-    "longitude": 116.606491,
-    "Route trip": 0,
+    "lat": -33.538306,
+    "lon": 116.606491,
+    "Routetrip": 0,
     "Date": [
       "2023-01-01",
       "2023-01-02",
@@ -16065,9 +16065,9 @@ var alldata = {
   },
   "CO001": {
     "stationCode": "CO001",
-    "latitude": -32.34565,
-    "longitude": 117.8078,
-    "Route trip": 0,
+    "lat": -32.34565,
+    "lon": 117.8078,
+    "Routetrip": 0,
     "Date": [
       "2023-01-01",
       "2023-01-02",
@@ -16525,9 +16525,9 @@ var alldata = {
   },
   "CO002": {
     "stationCode": "CO002",
-    "latitude": -32.32285,
-    "longitude": 118.0856,
-    "Route trip": 4,
+    "lat": -32.32285,
+    "lon": 118.0856,
+    "Routetrip": 4,
     "Date": [
       "2023-01-01",
       "2023-01-02",
@@ -16985,9 +16985,9 @@ var alldata = {
   },
   "CP002": {
     "stationCode": "CP002",
-    "latitude": -34.142386,
-    "longitude": 118.591089,
-    "Route trip": 4,
+    "lat": -34.142386,
+    "lon": 118.591089,
+    "Routetrip": 4,
     "Date": [
       "2023-01-01",
       "2023-01-02",
@@ -17445,17 +17445,17 @@ var alldata = {
   },
   "BCAA": {
     "stationCode": "BCAA",
-    "latitude": -33.935,
-    "longitude": 115.0842,
-    "Route trip": 3,
+    "lat": -33.935,
+    "lon": 115.0842,
+    "Routetrip": 3,
     "Date": [],
     "Rain": []
   },
   "BCAB": {
     "stationCode": "BCAB",
-    "latitude": -30.2762,
-    "longitude": 115.0926,
-    "Route trip": 1,
+    "lat": -30.2762,
+    "lon": 115.0926,
+    "Routetrip": 1,
     "Date": [
       "2023-01-01",
       "2023-01-02",
@@ -17905,9 +17905,9 @@ var alldata = {
   },
   "BTSA": {
     "stationCode": "BTSA",
-    "latitude": -25.055,
-    "longitude": 115.2096,
-    "Route trip": 3,
+    "lat": -25.055,
+    "lon": 115.2096,
+    "Routetrip": 3,
     "Date": [
       "2023-01-01",
       "2023-01-02",
@@ -18363,9 +18363,9 @@ var alldata = {
   },
   "BTSB": {
     "stationCode": "BTSB",
-    "latitude": -31.9606,
-    "longitude": 116.6898,
-    "Route trip": 0,
+    "lat": -31.9606,
+    "lon": 116.6898,
+    "Routetrip": 0,
     "Date": [
       "2023-01-01",
       "2023-01-02",
@@ -18823,9 +18823,9 @@ var alldata = {
   },
   "BTSC": {
     "stationCode": "BTSC",
-    "latitude": -27.6869,
-    "longitude": 114.2618,
-    "Route trip": 3,
+    "lat": -27.6869,
+    "lon": 114.2618,
+    "Routetrip": 3,
     "Date": [
       "2023-01-01",
       "2023-01-02",
@@ -19283,9 +19283,9 @@ var alldata = {
   },
   "BTSD": {
     "stationCode": "BTSD",
-    "latitude": -31.2143,
-    "longitude": 120.2593,
-    "Route trip": 2,
+    "lat": -31.2143,
+    "lon": 120.2593,
+    "Routetrip": 2,
     "Date": [
       "2023-01-01",
       "2023-01-02",
@@ -19739,9 +19739,9 @@ var alldata = {
   },
   "BTSE": {
     "stationCode": "BTSE",
-    "latitude": -16.4202,
-    "longitude": 126.4411,
-    "Route trip": 2,
+    "lat": -16.4202,
+    "lon": 126.4411,
+    "Routetrip": 2,
     "Date": [
       "2023-01-01",
       "2023-01-02",
@@ -20199,9 +20199,9 @@ var alldata = {
   },
   "BTSF": {
     "stationCode": "BTSF",
-    "latitude": -33.3424,
-    "longitude": 116.1367,
-    "Route trip": 4,
+    "lat": -33.3424,
+    "lon": 116.1367,
+    "Routetrip": 4,
     "Date": [
       "2023-01-25",
       "2023-01-26",
@@ -20655,9 +20655,9 @@ var alldata = {
   },
   "BTSG": {
     "stationCode": "BTSG",
-    "latitude": -32.508,
-    "longitude": 115.8137,
-    "Route trip": 1,
+    "lat": -32.508,
+    "lon": 115.8137,
+    "Routetrip": 1,
     "Date": [
       "2023-05-03",
       "2023-05-04",
@@ -21113,9 +21113,9 @@ var alldata = {
   },
   "BTSI": {
     "stationCode": "BTSI",
-    "latitude": -19.2297,
-    "longitude": 121.6167,
-    "Route trip": 1,
+    "lat": -19.2297,
+    "lon": 121.6167,
+    "Routetrip": 1,
     "Date": [
       "2023-10-26",
       "2023-10-27",
@@ -21131,9 +21131,9 @@ var alldata = {
   },
   "DG001": {
     "stationCode": "DG001",
-    "latitude": -30.826939,
-    "longitude": 115.763161,
-    "Route trip": 3,
+    "lat": -30.826939,
+    "lon": 115.763161,
+    "Routetrip": 3,
     "Date": [
       "2023-01-01",
       "2023-01-02",
@@ -21591,9 +21591,9 @@ var alldata = {
   },
   "DA": {
     "stationCode": "DA",
-    "latitude": -33.33677,
-    "longitude": 115.783505,
-    "Route trip": 1,
+    "lat": -33.33677,
+    "lon": 115.783505,
+    "Routetrip": 1,
     "Date": [
       "2023-01-01",
       "2023-01-02",
@@ -22043,9 +22043,9 @@ var alldata = {
   },
   "DA002": {
     "stationCode": "DA002",
-    "latitude": -33.38717,
-    "longitude": 115.86655,
-    "Route trip": 4,
+    "lat": -33.38717,
+    "lon": 115.86655,
+    "Routetrip": 4,
     "Date": [
       "2023-01-01",
       "2023-01-02",
@@ -22503,9 +22503,9 @@ var alldata = {
   },
   "DK001": {
     "stationCode": "DK001",
-    "latitude": -33.26455,
-    "longitude": 116.8262,
-    "Route trip": 4,
+    "lat": -33.26455,
+    "lon": 116.8262,
+    "Routetrip": 4,
     "Date": [
       "2023-01-01",
       "2023-01-02",
@@ -22963,9 +22963,9 @@ var alldata = {
   },
   "DM001": {
     "stationCode": "DM001",
-    "latitude": -34.95226,
-    "longitude": 117.370933,
-    "Route trip": 1,
+    "lat": -34.95226,
+    "lon": 117.370933,
+    "Routetrip": 1,
     "Date": [
       "2023-01-01",
       "2023-01-02",
@@ -23423,9 +23423,9 @@ var alldata = {
   },
   "DP001": {
     "stationCode": "DP001",
-    "latitude": -33.800513,
-    "longitude": 116.552662,
-    "Route trip": 4,
+    "lat": -33.800513,
+    "lon": 116.552662,
+    "Routetrip": 4,
     "Date": [
       "2023-01-01",
       "2023-01-02",
@@ -23883,9 +23883,9 @@ var alldata = {
   },
   "DB": {
     "stationCode": "DB",
-    "latitude": -33.541143,
-    "longitude": 115.820985,
-    "Route trip": 1,
+    "lat": -33.541143,
+    "lon": 115.820985,
+    "Routetrip": 1,
     "Date": [
       "2023-01-01",
       "2023-01-02",
@@ -24343,9 +24343,9 @@ var alldata = {
   },
   "DR001": {
     "stationCode": "DR001",
-    "latitude": -32.8497,
-    "longitude": 119.038966,
-    "Route trip": 0,
+    "lat": -32.8497,
+    "lon": 119.038966,
+    "Routetrip": 0,
     "Date": [
       "2023-01-01",
       "2023-01-02",
@@ -24803,9 +24803,9 @@ var alldata = {
   },
   "TS002": {
     "stationCode": "TS002",
-    "latitude": -29.27243,
-    "longitude": 115.725056,
-    "Route trip": 0,
+    "lat": -29.27243,
+    "lon": 115.725056,
+    "Routetrip": 0,
     "Date": [
       "2023-01-01",
       "2023-01-02",
@@ -25263,9 +25263,9 @@ var alldata = {
   },
   "DU001": {
     "stationCode": "DU001",
-    "latitude": -33.322317,
-    "longitude": 117.749167,
-    "Route trip": 4,
+    "lat": -33.322317,
+    "lon": 117.749167,
+    "Routetrip": 4,
     "Date": [
       "2023-01-01",
       "2023-01-02",
@@ -25723,9 +25723,9 @@ var alldata = {
   },
   "DU002": {
     "stationCode": "DU002",
-    "latitude": -33.33905,
-    "longitude": 117.784184,
-    "Route trip": 0,
+    "lat": -33.33905,
+    "lon": 117.784184,
+    "Routetrip": 0,
     "Date": [
       "2023-01-01",
       "2023-01-02",
@@ -26183,9 +26183,9 @@ var alldata = {
   },
   "EB": {
     "stationCode": "EB",
-    "latitude": -32.142505,
-    "longitude": 117.173785,
-    "Route trip": 4,
+    "lat": -32.142505,
+    "lon": 117.173785,
+    "Routetrip": 4,
     "Date": [
       "2023-01-01",
       "2023-01-02",
@@ -26643,9 +26643,9 @@ var alldata = {
   },
   "EJ001": {
     "stationCode": "EJ001",
-    "latitude": -30.9932,
-    "longitude": 117.1358,
-    "Route trip": 0,
+    "lat": -30.9932,
+    "lon": 117.1358,
+    "Routetrip": 0,
     "Date": [
       "2023-01-01",
       "2023-01-02",
@@ -27103,9 +27103,9 @@ var alldata = {
   },
   "EN001": {
     "stationCode": "EN001",
-    "latitude": -29.77764,
-    "longitude": 115.31929,
-    "Route trip": 3,
+    "lat": -29.77764,
+    "lon": 115.31929,
+    "Routetrip": 3,
     "Date": [
       "2023-01-01",
       "2023-01-02",
@@ -27563,9 +27563,9 @@ var alldata = {
   },
   "ER": {
     "stationCode": "ER",
-    "latitude": -28.695861,
-    "longitude": 114.980032,
-    "Route trip": 4,
+    "lat": -28.695861,
+    "lon": 114.980032,
+    "Routetrip": 4,
     "Date": [
       "2023-01-01",
       "2023-01-02",
@@ -28023,9 +28023,9 @@ var alldata = {
   },
   "ES001": {
     "stationCode": "ES001",
-    "latitude": -28.84754,
-    "longitude": 115.27215,
-    "Route trip": 4,
+    "lat": -28.84754,
+    "lon": 115.27215,
+    "Routetrip": 4,
     "Date": [
       "2023-01-01",
       "2023-01-02",
@@ -28483,9 +28483,9 @@ var alldata = {
   },
   "ES": {
     "stationCode": "ES",
-    "latitude": -33.609175,
-    "longitude": 121.795591,
-    "Route trip": 3,
+    "lat": -33.609175,
+    "lon": 121.795591,
+    "Routetrip": 3,
     "Date": [
       "2023-01-01",
       "2023-01-02",
@@ -28943,9 +28943,9 @@ var alldata = {
   },
   "FL": {
     "stationCode": "FL",
-    "latitude": -31.951181,
-    "longitude": 115.792334,
-    "Route trip": 1,
+    "lat": -31.951181,
+    "lon": 115.792334,
+    "Routetrip": 1,
     "Date": [
       "2023-01-01",
       "2023-01-02",
@@ -29403,9 +29403,9 @@ var alldata = {
   },
   "GI001": {
     "stationCode": "GI001",
-    "latitude": -34.30745,
-    "longitude": 115.549422,
-    "Route trip": 1,
+    "lat": -34.30745,
+    "lon": 115.549422,
+    "Routetrip": 1,
     "Date": [
       "2023-01-01",
       "2023-01-02",
@@ -29863,9 +29863,9 @@ var alldata = {
   },
   "FR": {
     "stationCode": "FR",
-    "latitude": -34.36490058,
-    "longitude": 116.9806311,
-    "Route trip": 4,
+    "lat": -34.36490058,
+    "lon": 116.9806311,
+    "Routetrip": 4,
     "Date": [
       "2023-01-01",
       "2023-01-02",
@@ -30323,9 +30323,9 @@ var alldata = {
   },
   "FR002": {
     "stationCode": "FR002",
-    "latitude": -34.237208,
-    "longitude": 117.044738,
-    "Route trip": 0,
+    "lat": -34.237208,
+    "lon": 117.044738,
+    "Routetrip": 0,
     "Date": [
       "2023-03-16",
       "2023-03-17",
@@ -30775,9 +30775,9 @@ var alldata = {
   },
   "GA001": {
     "stationCode": "GA001",
-    "latitude": -34.305433,
-    "longitude": 119.09855,
-    "Route trip": 1,
+    "lat": -34.305433,
+    "lon": 119.09855,
+    "Routetrip": 1,
     "Date": [
       "2023-01-01",
       "2023-01-02",
@@ -31235,9 +31235,9 @@ var alldata = {
   },
   "GW": {
     "stationCode": "GW",
-    "latitude": -31.331817,
-    "longitude": 115.603514,
-    "Route trip": 1,
+    "lat": -31.331817,
+    "lon": 115.603514,
+    "Routetrip": 1,
     "Date": [
       "2023-01-01",
       "2023-01-02",
@@ -31695,9 +31695,9 @@ var alldata = {
   },
   "GE001": {
     "stationCode": "GE001",
-    "latitude": -32.252814,
-    "longitude": 116.141504,
-    "Route trip": 0,
+    "lat": -32.252814,
+    "lon": 116.141504,
+    "Routetrip": 0,
     "Date": [
       "2023-01-01",
       "2023-01-02",
@@ -32155,9 +32155,9 @@ var alldata = {
   },
   "GN002": {
     "stationCode": "GN002",
-    "latitude": -33.97145,
-    "longitude": 118.01766,
-    "Route trip": 4,
+    "lat": -33.97145,
+    "lon": 118.01766,
+    "Routetrip": 4,
     "Date": [
       "2023-01-01",
       "2023-01-02",
@@ -32615,9 +32615,9 @@ var alldata = {
   },
   "KL002": {
     "stationCode": "KL002",
-    "latitude": -30.034942,
-    "longitude": 117.240167,
-    "Route trip": 0,
+    "lat": -30.034942,
+    "lon": 117.240167,
+    "Routetrip": 0,
     "Date": [
       "2023-01-01",
       "2023-01-02",
@@ -33075,9 +33075,9 @@ var alldata = {
   },
   "GP001": {
     "stationCode": "GP001",
-    "latitude": -33.2649722,
-    "longitude": 121.5751111,
-    "Route trip": 3,
+    "lat": -33.2649722,
+    "lon": 121.5751111,
+    "Routetrip": 3,
     "Date": [
       "2023-01-01",
       "2023-01-02",
@@ -33533,9 +33533,9 @@ var alldata = {
   },
   "GU001": {
     "stationCode": "GU001",
-    "latitude": -29.058694,
-    "longitude": 115.821458,
-    "Route trip": 0,
+    "lat": -29.058694,
+    "lon": 115.821458,
+    "Routetrip": 0,
     "Date": [
       "2023-01-01",
       "2023-01-02",
@@ -33993,9 +33993,9 @@ var alldata = {
   },
   "HV": {
     "stationCode": "HV",
-    "latitude": -33.062245,
-    "longitude": 115.854561,
-    "Route trip": 1,
+    "lat": -33.062245,
+    "lon": 115.854561,
+    "Routetrip": 1,
     "Date": [
       "2023-01-01",
       "2023-01-02",
@@ -34453,9 +34453,9 @@ var alldata = {
   },
   "NA002": {
     "stationCode": "NA002",
-    "latitude": -33.076893,
-    "longitude": 117.451564,
-    "Route trip": 0,
+    "lat": -33.076893,
+    "lon": 117.451564,
+    "Routetrip": 0,
     "Date": [
       "2023-01-01",
       "2023-01-02",
@@ -34913,9 +34913,9 @@ var alldata = {
   },
   "HR": {
     "stationCode": "HR",
-    "latitude": -32.572418,
-    "longitude": 119.501014,
-    "Route trip": 0,
+    "lat": -32.572418,
+    "lon": 119.501014,
+    "Routetrip": 0,
     "Date": [
       "2023-01-01",
       "2023-01-02",
@@ -35369,9 +35369,9 @@ var alldata = {
   },
   "HY001": {
     "stationCode": "HY001",
-    "latitude": -32.44397,
-    "longitude": 118.8528,
-    "Route trip": 0,
+    "lat": -32.44397,
+    "lon": 118.8528,
+    "Routetrip": 0,
     "Date": [
       "2023-01-01",
       "2023-01-02",
@@ -35829,9 +35829,9 @@ var alldata = {
   },
   "JA001": {
     "stationCode": "JA001",
-    "latitude": -32.33423,
-    "longitude": 116.07547,
-    "Route trip": 4,
+    "lat": -32.33423,
+    "lon": 116.07547,
+    "Routetrip": 4,
     "Date": [
       "2023-01-01",
       "2023-01-02",
@@ -36289,9 +36289,9 @@ var alldata = {
   },
   "JA002": {
     "stationCode": "JA002",
-    "latitude": -32.35142,
-    "longitude": 116.0495,
-    "Route trip": 4,
+    "lat": -32.35142,
+    "lon": 116.0495,
+    "Routetrip": 4,
     "Date": [
       "2023-01-01",
       "2023-01-02",
@@ -36749,9 +36749,9 @@ var alldata = {
   },
   "JP001": {
     "stationCode": "JP001",
-    "latitude": -33.77361,
-    "longitude": 120.45667,
-    "Route trip": 3,
+    "lat": -33.77361,
+    "lon": 120.45667,
+    "Routetrip": 3,
     "Date": [
       "2023-01-01",
       "2023-01-02",
@@ -37207,9 +37207,9 @@ var alldata = {
   },
   "JE": {
     "stationCode": "JE",
-    "latitude": -33.7698,
-    "longitude": 118.9124,
-    "Route trip": 0,
+    "lat": -33.7698,
+    "lon": 118.9124,
+    "Routetrip": 0,
     "Date": [
       "2023-01-01",
       "2023-01-02",
@@ -37667,9 +37667,9 @@ var alldata = {
   },
   "JE002": {
     "stationCode": "JE002",
-    "latitude": -33.944644,
-    "longitude": 118.913419,
-    "Route trip": 0,
+    "lat": -33.944644,
+    "lon": 118.913419,
+    "Routetrip": 0,
     "Date": [
       "2023-01-01",
       "2023-01-02",
@@ -38127,9 +38127,9 @@ var alldata = {
   },
   "TU002": {
     "stationCode": "TU002",
-    "latitude": -34.09556,
-    "longitude": 117.028213,
-    "Route trip": 4,
+    "lat": -34.09556,
+    "lon": 117.028213,
+    "Routetrip": 4,
     "Date": [
       "2023-01-01",
       "2023-01-02",
@@ -38585,9 +38585,9 @@ var alldata = {
   },
   "JB001": {
     "stationCode": "JB001",
-    "latitude": -30.29605,
-    "longitude": 115.2213,
-    "Route trip": 1,
+    "lat": -30.29605,
+    "lon": 115.2213,
+    "Routetrip": 1,
     "Date": [
       "2023-01-01",
       "2023-01-02",
@@ -39045,9 +39045,9 @@ var alldata = {
   },
   "KL": {
     "stationCode": "KL",
-    "latitude": -30.343053,
-    "longitude": 117.117319,
-    "Route trip": 0,
+    "lat": -30.343053,
+    "lon": 117.117319,
+    "Routetrip": 0,
     "Date": [
       "2023-01-01",
       "2023-01-02",
@@ -39505,9 +39505,9 @@ var alldata = {
   },
   "KARI": {
     "stationCode": "KARI",
-    "latitude": -22.493556,
-    "longitude": 118.47145,
-    "Route trip": 2,
+    "lat": -22.493556,
+    "lon": 118.47145,
+    "Routetrip": 2,
     "Date": [
       "2023-01-01",
       "2023-01-02",
@@ -39585,9 +39585,9 @@ var alldata = {
   },
   "KR001": {
     "stationCode": "KR001",
-    "latitude": -34.227964,
-    "longitude": 115.143141,
-    "Route trip": 1,
+    "lat": -34.227964,
+    "lon": 115.143141,
+    "Routetrip": 1,
     "Date": [
       "2023-01-01",
       "2023-01-02",
@@ -40045,9 +40045,9 @@ var alldata = {
   },
   "KA": {
     "stationCode": "KA",
-    "latitude": -33.683085,
-    "longitude": 117.611931,
-    "Route trip": 0,
+    "lat": -33.683085,
+    "lon": 117.611931,
+    "Routetrip": 0,
     "Date": [
       "2023-01-01",
       "2023-01-02",
@@ -40505,9 +40505,9 @@ var alldata = {
   },
   "KA002": {
     "stationCode": "KA002",
-    "latitude": -33.8125,
-    "longitude": 117.5785,
-    "Route trip": 0,
+    "lat": -33.8125,
+    "lon": 117.5785,
+    "Routetrip": 0,
     "Date": [
       "2023-01-01",
       "2023-01-02",
@@ -40965,9 +40965,9 @@ var alldata = {
   },
   "KA003": {
     "stationCode": "KA003",
-    "latitude": -33.683424,
-    "longitude": 117.582187,
-    "Route trip": 0,
+    "lat": -33.683424,
+    "lon": 117.582187,
+    "Routetrip": 0,
     "Date": [
       "2023-01-01",
       "2023-01-02",
@@ -41287,9 +41287,9 @@ var alldata = {
   },
   "KA004": {
     "stationCode": "KA004",
-    "latitude": -33.683383,
-    "longitude": 117.582009,
-    "Route trip": 0,
+    "lat": -33.683383,
+    "lon": 117.582009,
+    "Routetrip": 0,
     "Date": [
       "2023-01-01",
       "2023-01-02",
@@ -41747,9 +41747,9 @@ var alldata = {
   },
   "KE001": {
     "stationCode": "KE001",
-    "latitude": -31.6179,
-    "longitude": 117.7203,
-    "Route trip": 4,
+    "lat": -31.6179,
+    "lon": 117.7203,
+    "Routetrip": 4,
     "Date": [
       "2023-01-01",
       "2023-01-02",
@@ -42207,9 +42207,9 @@ var alldata = {
   },
   "KE002": {
     "stationCode": "KE002",
-    "latitude": -31.32719,
-    "longitude": 117.77972,
-    "Route trip": 0,
+    "lat": -31.32719,
+    "lon": 117.77972,
+    "Routetrip": 0,
     "Date": [
       "2023-01-01",
       "2023-01-02",
@@ -42667,9 +42667,9 @@ var alldata = {
   },
   "MB002": {
     "stationCode": "MB002",
-    "latitude": -34.45003,
-    "longitude": 117.498986,
-    "Route trip": 4,
+    "lat": -34.45003,
+    "lon": 117.498986,
+    "Routetrip": 4,
     "Date": [
       "2023-01-01",
       "2023-01-02",
@@ -43127,9 +43127,9 @@ var alldata = {
   },
   "BG001": {
     "stationCode": "BG001",
-    "latitude": -31.95887,
-    "longitude": 115.83821,
-    "Route trip": 1,
+    "lat": -31.95887,
+    "lon": 115.83821,
+    "Routetrip": 1,
     "Date": [
       "2023-01-01",
       "2023-01-02",
@@ -43587,9 +43587,9 @@ var alldata = {
   },
   "KO002": {
     "stationCode": "KO002",
-    "latitude": -34.575486,
-    "longitude": 118.260501,
-    "Route trip": 3,
+    "lat": -34.575486,
+    "lon": 118.260501,
+    "Routetrip": 3,
     "Date": [
       "2023-01-01",
       "2023-01-02",
@@ -44033,9 +44033,9 @@ var alldata = {
   },
   "KD001": {
     "stationCode": "KD001",
-    "latitude": -32.46288,
-    "longitude": 118.2694,
-    "Route trip": 0,
+    "lat": -32.46288,
+    "lon": 118.2694,
+    "Routetrip": 0,
     "Date": [
       "2023-01-01",
       "2023-01-02",
@@ -44493,9 +44493,9 @@ var alldata = {
   },
   "KO001": {
     "stationCode": "KO001",
-    "latitude": -30.828382,
-    "longitude": 117.501453,
-    "Route trip": 0,
+    "lat": -30.828382,
+    "lon": 117.501453,
+    "Routetrip": 0,
     "Date": [
       "2023-01-01",
       "2023-01-02",
@@ -44953,9 +44953,9 @@ var alldata = {
   },
   "KI001": {
     "stationCode": "KI001",
-    "latitude": -32.790382,
-    "longitude": 118.301848,
-    "Route trip": 0,
+    "lat": -32.790382,
+    "lon": 118.301848,
+    "Routetrip": 0,
     "Date": [
       "2023-01-01",
       "2023-01-02",
@@ -45413,9 +45413,9 @@ var alldata = {
   },
   "SG002": {
     "stationCode": "SG002",
-    "latitude": -32.728013,
-    "longitude": 121.552688,
-    "Route trip": 4,
+    "lat": -32.728013,
+    "lon": 121.552688,
+    "Routetrip": 4,
     "Date": [
       "2023-01-01",
       "2023-01-02",
@@ -45873,9 +45873,9 @@ var alldata = {
   },
   "KN": {
     "stationCode": "KN",
-    "latitude": -15.65758333,
-    "longitude": 128.7152778,
-    "Route trip": 1,
+    "lat": -15.65758333,
+    "lon": 128.7152778,
+    "Routetrip": 1,
     "Date": [
       "2023-01-01",
       "2023-01-02",
@@ -46321,9 +46321,9 @@ var alldata = {
   },
   "KW001": {
     "stationCode": "KW001",
-    "latitude": -32.3153,
-    "longitude": 117.41553,
-    "Route trip": 0,
+    "lat": -32.3153,
+    "lon": 117.41553,
+    "Routetrip": 0,
     "Date": [
       "2023-01-01",
       "2023-01-02",
@@ -46761,9 +46761,9 @@ var alldata = {
   },
   "LK": {
     "stationCode": "LK",
-    "latitude": -33.024003,
-    "longitude": 119.812713,
-    "Route trip": 0,
+    "lat": -33.024003,
+    "lon": 119.812713,
+    "Routetrip": 0,
     "Date": [
       "2023-01-01",
       "2023-01-02",
@@ -47221,9 +47221,9 @@ var alldata = {
   },
   "LE": {
     "stationCode": "LE",
-    "latitude": -30.8862,
-    "longitude": 115.40775,
-    "Route trip": 3,
+    "lat": -30.8862,
+    "lon": 115.40775,
+    "Routetrip": 3,
     "Date": [
       "2023-01-01",
       "2023-01-02",
@@ -47681,9 +47681,9 @@ var alldata = {
   },
   "LA001": {
     "stationCode": "LA001",
-    "latitude": -29.7974,
-    "longitude": 116.5539,
-    "Route trip": 0,
+    "lat": -29.7974,
+    "lon": 116.5539,
+    "Routetrip": 0,
     "Date": [
       "2023-01-01",
       "2023-01-02",
@@ -48141,9 +48141,9 @@ var alldata = {
   },
   "LG": {
     "stationCode": "LG",
-    "latitude": -32.99347,
-    "longitude": 115.93958,
-    "Route trip": 4,
+    "lat": -32.99347,
+    "lon": 115.93958,
+    "Routetrip": 4,
     "Date": [
       "2023-01-01",
       "2023-01-02",
@@ -48565,9 +48565,9 @@ var alldata = {
   },
   "DN001": {
     "stationCode": "DN001",
-    "latitude": -33.504677,
-    "longitude": 121.388708,
-    "Route trip": 3,
+    "lat": -33.504677,
+    "lon": 121.388708,
+    "Routetrip": 3,
     "Date": [
       "2023-01-01",
       "2023-01-02",
@@ -49021,9 +49021,9 @@ var alldata = {
   },
   "MG001": {
     "stationCode": "MG001",
-    "latitude": -33.27912,
-    "longitude": 119.16365,
-    "Route trip": 0,
+    "lat": -33.27912,
+    "lon": 119.16365,
+    "Routetrip": 0,
     "Date": [
       "2023-01-01",
       "2023-01-02",
@@ -49481,9 +49481,9 @@ var alldata = {
   },
   "MA002": {
     "stationCode": "MA002",
-    "latitude": -34.299334,
-    "longitude": 116.127309,
-    "Route trip": 4,
+    "lat": -34.299334,
+    "lon": 116.127309,
+    "Routetrip": 4,
     "Date": [
       "2023-01-01",
       "2023-01-02",
@@ -49941,9 +49941,9 @@ var alldata = {
   },
   "MP": {
     "stationCode": "MP",
-    "latitude": -34.779833,
-    "longitude": 118.217167,
-    "Route trip": 3,
+    "lat": -34.779833,
+    "lon": 118.217167,
+    "Routetrip": 3,
     "Date": [
       "2023-01-01",
       "2023-01-02",
@@ -50401,9 +50401,9 @@ var alldata = {
   },
   "MR002": {
     "stationCode": "MR002",
-    "latitude": -33.971865,
-    "longitude": 115.105013,
-    "Route trip": 3,
+    "lat": -33.971865,
+    "lon": 115.105013,
+    "Routetrip": 3,
     "Date": [
       "2023-01-01",
       "2023-01-02",
@@ -50861,9 +50861,9 @@ var alldata = {
   },
   "BW001": {
     "stationCode": "BW001",
-    "latitude": -32.85485,
-    "longitude": 116.44993,
-    "Route trip": 4,
+    "lat": -32.85485,
+    "lon": 116.44993,
+    "Routetrip": 4,
     "Date": [
       "2023-01-01",
       "2023-01-02",
@@ -51321,9 +51321,9 @@ var alldata = {
   },
   "MS001": {
     "stationCode": "MS001",
-    "latitude": -34.030905,
-    "longitude": 116.512452,
-    "Route trip": 4,
+    "lat": -34.030905,
+    "lon": 116.512452,
+    "Routetrip": 4,
     "Date": [
       "2023-01-01",
       "2023-01-02",
@@ -51781,9 +51781,9 @@ var alldata = {
   },
   "MC001": {
     "stationCode": "MC001",
-    "latitude": -33.599765,
-    "longitude": 116.26332,
-    "Route trip": 4,
+    "lat": -33.599765,
+    "lon": 116.26332,
+    "Routetrip": 4,
     "Date": [
       "2023-01-01",
       "2023-01-02",
@@ -52241,17 +52241,17 @@ var alldata = {
   },
   "MEAN": {
     "stationCode": "MEAN",
-    "latitude": -27.698975,
-    "longitude": 114.222944,
-    "Route trip": 4,
+    "lat": -27.698975,
+    "lon": 114.222944,
+    "Routetrip": 4,
     "Date": [],
     "Rain": []
   },
   "MN": {
     "stationCode": "MN",
-    "latitude": -31.397106,
-    "longitude": 117.157604,
-    "Route trip": 0,
+    "lat": -31.397106,
+    "lon": 117.157604,
+    "Routetrip": 0,
     "Date": [
       "2023-01-01",
       "2023-01-02",
@@ -52653,9 +52653,9 @@ var alldata = {
   },
   "ME": {
     "stationCode": "ME",
-    "latitude": -31.493128,
-    "longitude": 118.226202,
-    "Route trip": 0,
+    "lat": -31.493128,
+    "lon": 118.226202,
+    "Routetrip": 0,
     "Date": [
       "2023-01-01",
       "2023-01-02",
@@ -53113,9 +53113,9 @@ var alldata = {
   },
   "ME002": {
     "stationCode": "ME002",
-    "latitude": -31.485436,
-    "longitude": 118.220944,
-    "Route trip": 0,
+    "lat": -31.485436,
+    "lon": 118.220944,
+    "Routetrip": 0,
     "Date": [
       "2023-01-01",
       "2023-01-02",
@@ -53573,9 +53573,9 @@ var alldata = {
   },
   "ME003": {
     "stationCode": "ME003",
-    "latitude": -31.484965,
-    "longitude": 118.221424,
-    "Route trip": 0,
+    "lat": -31.484965,
+    "lon": 118.221424,
+    "Routetrip": 0,
     "Date": [
       "2023-01-01",
       "2023-01-02",
@@ -54033,9 +54033,9 @@ var alldata = {
   },
   "MILL": {
     "stationCode": "MILL",
-    "latitude": -21.595033,
-    "longitude": 117.072721,
-    "Route trip": 0,
+    "lat": -21.595033,
+    "lon": 117.072721,
+    "Routetrip": 0,
     "Date": [
       "2023-01-01",
       "2023-01-02",
@@ -54493,9 +54493,9 @@ var alldata = {
   },
   "MX001": {
     "stationCode": "MX001",
-    "latitude": -34.250121,
-    "longitude": 115.447536,
-    "Route trip": 1,
+    "lat": -34.250121,
+    "lon": 115.447536,
+    "Routetrip": 1,
     "Date": [
       "2023-01-01",
       "2023-01-02",
@@ -54953,9 +54953,9 @@ var alldata = {
   },
   "MI": {
     "stationCode": "MI",
-    "latitude": -29.28453,
-    "longitude": 115.391097,
-    "Route trip": 0,
+    "lat": -29.28453,
+    "lon": 115.391097,
+    "Routetrip": 0,
     "Date": [
       "2023-01-01",
       "2023-01-02",
@@ -55413,9 +55413,9 @@ var alldata = {
   },
   "MI002": {
     "stationCode": "MI002",
-    "latitude": -29.157472,
-    "longitude": 115.383428,
-    "Route trip": 3,
+    "lat": -29.157472,
+    "lon": 115.383428,
+    "Routetrip": 3,
     "Date": [
       "2023-01-01",
       "2023-01-02",
@@ -55873,17 +55873,17 @@ var alldata = {
   },
   "MIPL": {
     "stationCode": "MIPL",
-    "latitude": -14.788286,
-    "longitude": 125.829899,
-    "Route trip": 0,
+    "lat": -14.788286,
+    "lon": 125.829899,
+    "Routetrip": 0,
     "Date": [],
     "Rain": []
   },
   "MZ": {
     "stationCode": "MZ",
-    "latitude": -30.659595,
-    "longitude": 116.00015,
-    "Route trip": 4,
+    "lat": -30.659595,
+    "lon": 116.00015,
+    "Routetrip": 4,
     "Date": [
       "2023-01-01",
       "2023-01-02",
@@ -56341,9 +56341,9 @@ var alldata = {
   },
   "MZ002": {
     "stationCode": "MZ002",
-    "latitude": -30.612997,
-    "longitude": 115.897434,
-    "Route trip": 4,
+    "lat": -30.612997,
+    "lon": 115.897434,
+    "Routetrip": 4,
     "Date": [
       "2023-01-01",
       "2023-01-02",
@@ -56801,9 +56801,9 @@ var alldata = {
   },
   "ME005": {
     "stationCode": "ME005",
-    "latitude": -31.4139944,
-    "longitude": 119.0341806,
-    "Route trip": 0,
+    "lat": -31.4139944,
+    "lon": 119.0341806,
+    "Routetrip": 0,
     "Date": [
       "2023-01-01",
       "2023-01-02",
@@ -57261,9 +57261,9 @@ var alldata = {
   },
   "MO": {
     "stationCode": "MO",
-    "latitude": -29.220353,
-    "longitude": 115.997377,
-    "Route trip": 0,
+    "lat": -29.220353,
+    "lon": 115.997377,
+    "Routetrip": 0,
     "Date": [
       "2023-01-01",
       "2023-01-02",
@@ -57721,9 +57721,9 @@ var alldata = {
   },
   "MB": {
     "stationCode": "MB",
-    "latitude": -34.634208,
-    "longitude": 117.539373,
-    "Route trip": 4,
+    "lat": -34.634208,
+    "lon": 117.539373,
+    "Routetrip": 4,
     "Date": [
       "2023-01-01",
       "2023-01-02",
@@ -58181,9 +58181,9 @@ var alldata = {
   },
   "MB003": {
     "stationCode": "MB003",
-    "latitude": -34.677523,
-    "longitude": 117.67278,
-    "Route trip": 4,
+    "lat": -34.677523,
+    "lon": 117.67278,
+    "Routetrip": 4,
     "Date": [
       "2023-01-01",
       "2023-01-02",
@@ -58641,9 +58641,9 @@ var alldata = {
   },
   "BU": {
     "stationCode": "BU",
-    "latitude": -33.30968,
-    "longitude": 123.07455,
-    "Route trip": 3,
+    "lat": -33.30968,
+    "lon": 123.07455,
+    "Routetrip": 3,
     "Date": [
       "2023-01-01",
       "2023-01-02",
@@ -59101,9 +59101,9 @@ var alldata = {
   },
   "BD": {
     "stationCode": "BD",
-    "latitude": -33.410914,
-    "longitude": 122.159201,
-    "Route trip": 3,
+    "lat": -33.410914,
+    "lon": 122.159201,
+    "Routetrip": 3,
     "Date": [
       "2023-01-01",
       "2023-01-02",
@@ -59561,9 +59561,9 @@ var alldata = {
   },
   "BURN": {
     "stationCode": "BURN",
-    "latitude": -34.621083,
-    "longitude": 116.4793,
-    "Route trip": 0,
+    "lat": -34.621083,
+    "lon": 116.4793,
+    "Routetrip": 0,
     "Date": [
       "2023-01-02",
       "2023-01-03",
@@ -59589,17 +59589,17 @@ var alldata = {
   },
   "DALE": {
     "stationCode": "DALE",
-    "latitude": -32.126141,
-    "longitude": 116.299525,
-    "Route trip": 2,
+    "lat": -32.126141,
+    "lon": 116.299525,
+    "Routetrip": 2,
     "Date": [],
     "Rain": []
   },
   "HO": {
     "stationCode": "HO",
-    "latitude": -33.6615,
-    "longitude": 122.709,
-    "Route trip": 3,
+    "lat": -33.6615,
+    "lon": 122.709,
+    "Routetrip": 3,
     "Date": [
       "2023-01-01",
       "2023-01-02",
@@ -59979,9 +59979,9 @@ var alldata = {
   },
   "MD001": {
     "stationCode": "MD001",
-    "latitude": -33.183297,
-    "longitude": 120.08432,
-    "Route trip": 0,
+    "lat": -33.183297,
+    "lon": 120.08432,
+    "Routetrip": 0,
     "Date": [
       "2023-01-01",
       "2023-01-02",
@@ -60439,9 +60439,9 @@ var alldata = {
   },
   "BD002": {
     "stationCode": "BD002",
-    "latitude": -33.45305,
-    "longitude": 122.45472,
-    "Route trip": 3,
+    "lat": -33.45305,
+    "lon": 122.45472,
+    "Routetrip": 3,
     "Date": [
       "2023-01-01",
       "2023-01-02",
@@ -60897,9 +60897,9 @@ var alldata = {
   },
   "SOLS": {
     "stationCode": "SOLS",
-    "latitude": -32.47,
-    "longitude": 116.214333,
-    "Route trip": 2,
+    "lat": -32.47,
+    "lon": 116.214333,
+    "Routetrip": 2,
     "Date": [
       "2023-01-01"
     ],
@@ -60909,9 +60909,9 @@ var alldata = {
   },
   "NB002": {
     "stationCode": "NB002",
-    "latitude": -32.055417,
-    "longitude": 118.81817,
-    "Route trip": 0,
+    "lat": -32.055417,
+    "lon": 118.81817,
+    "Routetrip": 0,
     "Date": [
       "2023-01-01",
       "2023-01-02",
@@ -61369,9 +61369,9 @@ var alldata = {
   },
   "MU001": {
     "stationCode": "MU001",
-    "latitude": -30.9187,
-    "longitude": 118.2506,
-    "Route trip": 0,
+    "lat": -30.9187,
+    "lon": 118.2506,
+    "Routetrip": 0,
     "Date": [
       "2023-01-01",
       "2023-01-02",
@@ -61829,9 +61829,9 @@ var alldata = {
   },
   "MU": {
     "stationCode": "MU",
-    "latitude": -28.588141,
-    "longitude": 115.446142,
-    "Route trip": 4,
+    "lat": -28.588141,
+    "lon": 115.446142,
+    "Routetrip": 4,
     "Date": [
       "2023-01-01",
       "2023-01-02",
@@ -62289,9 +62289,9 @@ var alldata = {
   },
   "MP002": {
     "stationCode": "MP002",
-    "latitude": -33.78222,
-    "longitude": 120.813056,
-    "Route trip": 1,
+    "lat": -33.78222,
+    "lon": 120.813056,
+    "Routetrip": 1,
     "Date": [
       "2023-01-01",
       "2023-01-02",
@@ -62749,9 +62749,9 @@ var alldata = {
   },
   "SB002": {
     "stationCode": "SB002",
-    "latitude": -31.735761,
-    "longitude": 118.85894,
-    "Route trip": 2,
+    "lat": -31.735761,
+    "lon": 118.85894,
+    "Routetrip": 2,
     "Date": [
       "2023-01-01",
       "2023-01-02",
@@ -63209,9 +63209,9 @@ var alldata = {
   },
   "MK": {
     "stationCode": "MK",
-    "latitude": -31.72772,
-    "longitude": 116.69127,
-    "Route trip": 4,
+    "lat": -31.72772,
+    "lon": 116.69127,
+    "Routetrip": 4,
     "Date": [
       "2023-01-01",
       "2023-01-02",
@@ -63667,9 +63667,9 @@ var alldata = {
   },
   "MY": {
     "stationCode": "MY",
-    "latitude": -33.091703,
-    "longitude": 115.717528,
-    "Route trip": 1,
+    "lat": -33.091703,
+    "lon": 115.717528,
+    "Routetrip": 1,
     "Date": [
       "2023-01-01",
       "2023-01-02",
@@ -64127,9 +64127,9 @@ var alldata = {
   },
   "NU001": {
     "stationCode": "NU001",
-    "latitude": -33.937097,
-    "longitude": 115.794999,
-    "Route trip": 3,
+    "lat": -33.937097,
+    "lon": 115.794999,
+    "Routetrip": 3,
     "Date": [
       "2023-01-01",
       "2023-01-02",
@@ -64587,9 +64587,9 @@ var alldata = {
   },
   "NU002": {
     "stationCode": "NU002",
-    "latitude": -34.0933,
-    "longitude": 115.78282,
-    "Route trip": 3,
+    "lat": -34.0933,
+    "lon": 115.78282,
+    "Routetrip": 3,
     "Date": [
       "2023-01-01",
       "2023-01-02",
@@ -65013,9 +65013,9 @@ var alldata = {
   },
   "NB001": {
     "stationCode": "NB001",
-    "latitude": -32.10805,
-    "longitude": 118.40635,
-    "Route trip": 0,
+    "lat": -32.10805,
+    "lon": 118.40635,
+    "Routetrip": 0,
     "Date": [
       "2023-01-01",
       "2023-01-02",
@@ -65473,9 +65473,9 @@ var alldata = {
   },
   "NA003": {
     "stationCode": "NA003",
-    "latitude": -34.759399,
-    "longitude": 117.893904,
-    "Route trip": 3,
+    "lat": -34.759399,
+    "lon": 117.893904,
+    "Routetrip": 3,
     "Date": [
       "2023-01-01",
       "2023-01-02",
@@ -65931,9 +65931,9 @@ var alldata = {
   },
   "NA001": {
     "stationCode": "NA001",
-    "latitude": -32.92622,
-    "longitude": 117.07455,
-    "Route trip": 0,
+    "lat": -32.92622,
+    "lon": 117.07455,
+    "Routetrip": 0,
     "Date": [
       "2023-01-01",
       "2023-01-02",
@@ -66391,9 +66391,9 @@ var alldata = {
   },
   "NN001": {
     "stationCode": "NN001",
-    "latitude": -31.105392,
-    "longitude": 116.189869,
-    "Route trip": 0,
+    "lat": -31.105392,
+    "lon": 116.189869,
+    "Routetrip": 0,
     "Date": [
       "2023-01-01",
       "2023-01-02",
@@ -66851,9 +66851,9 @@ var alldata = {
   },
   "NE": {
     "stationCode": "NE",
-    "latitude": -33.112956,
-    "longitude": 118.839964,
-    "Route trip": 0,
+    "lat": -33.112956,
+    "lon": 118.839964,
+    "Routetrip": 0,
     "Date": [
       "2023-01-01",
       "2023-01-02",
@@ -67311,9 +67311,9 @@ var alldata = {
   },
   "KP001": {
     "stationCode": "KP001",
-    "latitude": -33.65428333,
-    "longitude": 115.8671167,
-    "Route trip": 4,
+    "lat": -33.65428333,
+    "lon": 115.8671167,
+    "Routetrip": 4,
     "Date": [
       "2023-01-01",
       "2023-01-02",
@@ -67771,9 +67771,9 @@ var alldata = {
   },
   "NO": {
     "stationCode": "NO",
-    "latitude": -31.651611,
-    "longitude": 116.694194,
-    "Route trip": 3,
+    "lat": -31.651611,
+    "lon": 116.694194,
+    "Routetrip": 3,
     "Date": [
       "2023-01-01",
       "2023-01-02",
@@ -68229,9 +68229,9 @@ var alldata = {
   },
   "NW001": {
     "stationCode": "NW001",
-    "latitude": -28.300442,
-    "longitude": 114.508197,
-    "Route trip": 3,
+    "lat": -28.300442,
+    "lon": 114.508197,
+    "Routetrip": 3,
     "Date": [
       "2023-01-01",
       "2023-01-02",
@@ -68689,9 +68689,9 @@ var alldata = {
   },
   "NL001": {
     "stationCode": "NL001",
-    "latitude": -34.653996,
-    "longitude": 116.144368,
-    "Route trip": 1,
+    "lat": -34.653996,
+    "lon": 116.144368,
+    "Routetrip": 1,
     "Date": [
       "2023-01-01",
       "2023-01-02",
@@ -69149,9 +69149,9 @@ var alldata = {
   },
   "NY001": {
     "stationCode": "NY001",
-    "latitude": -33.43895,
-    "longitude": 118.2807,
-    "Route trip": 0,
+    "lat": -33.43895,
+    "lon": 118.2807,
+    "Routetrip": 0,
     "Date": [
       "2023-01-01",
       "2023-01-02",
@@ -69609,9 +69609,9 @@ var alldata = {
   },
   "NY002": {
     "stationCode": "NY002",
-    "latitude": -33.60975,
-    "longitude": 118.1175,
-    "Route trip": 0,
+    "lat": -33.60975,
+    "lon": 118.1175,
+    "Routetrip": 0,
     "Date": [
       "2023-01-01",
       "2023-01-02",
@@ -70069,9 +70069,9 @@ var alldata = {
   },
   "ON002": {
     "stationCode": "ON002",
-    "latitude": -33.89915,
-    "longitude": 118.46782,
-    "Route trip": 0,
+    "lat": -33.89915,
+    "lon": 118.46782,
+    "Routetrip": 0,
     "Date": [
       "2023-01-01",
       "2023-01-02",
@@ -70529,9 +70529,9 @@ var alldata = {
   },
   "ON001": {
     "stationCode": "ON001",
-    "latitude": -33.816167,
-    "longitude": 118.484433,
-    "Route trip": 0,
+    "lat": -33.816167,
+    "lon": 118.484433,
+    "Routetrip": 0,
     "Date": [
       "2023-01-01",
       "2023-01-02",
@@ -70989,9 +70989,9 @@ var alldata = {
   },
   "PD": {
     "stationCode": "PD",
-    "latitude": -19.98714,
-    "longitude": 119.95279,
-    "Route trip": 1,
+    "lat": -19.98714,
+    "lon": 119.95279,
+    "Routetrip": 1,
     "Date": [
       "2023-01-01",
       "2023-01-02",
@@ -71443,9 +71443,9 @@ var alldata = {
   },
   "PM": {
     "stationCode": "PM",
-    "latitude": -34.405166,
-    "longitude": 115.932851,
-    "Route trip": 3,
+    "lat": -34.405166,
+    "lon": 115.932851,
+    "Routetrip": 3,
     "Date": [
       "2023-01-01",
       "2023-01-02",
@@ -71903,9 +71903,9 @@ var alldata = {
   },
   "PJ001": {
     "stationCode": "PJ001",
-    "latitude": -29.42313,
-    "longitude": 116.28129,
-    "Route trip": 0,
+    "lat": -29.42313,
+    "lon": 116.28129,
+    "Routetrip": 0,
     "Date": [
       "2023-01-01",
       "2023-01-02",
@@ -72363,9 +72363,9 @@ var alldata = {
   },
   "MU002": {
     "stationCode": "MU002",
-    "latitude": -28.537305,
-    "longitude": 115.781629,
-    "Route trip": 0,
+    "lat": -28.537305,
+    "lon": 115.781629,
+    "Routetrip": 0,
     "Date": [
       "2023-01-01",
       "2023-01-02",
@@ -72801,9 +72801,9 @@ var alldata = {
   },
   "PN001": {
     "stationCode": "PN001",
-    "latitude": -32.7340833,
-    "longitude": 118.627139,
-    "Route trip": 0,
+    "lat": -32.7340833,
+    "lon": 118.627139,
+    "Routetrip": 0,
     "Date": [
       "2023-01-01",
       "2023-01-02",
@@ -73261,9 +73261,9 @@ var alldata = {
   },
   "PY001": {
     "stationCode": "PY001",
-    "latitude": -32.5064167,
-    "longitude": 116.9779167,
-    "Route trip": 0,
+    "lat": -32.5064167,
+    "lon": 116.9779167,
+    "Routetrip": 0,
     "Date": [
       "2023-01-01",
       "2023-01-02",
@@ -73721,9 +73721,9 @@ var alldata = {
   },
   "PG001": {
     "stationCode": "PG001",
-    "latitude": -33.476847,
-    "longitude": 118.719161,
-    "Route trip": 0,
+    "lat": -33.476847,
+    "lon": 118.719161,
+    "Routetrip": 0,
     "Date": [
       "2023-01-01",
       "2023-01-02",
@@ -74181,9 +74181,9 @@ var alldata = {
   },
   "PINJ": {
     "stationCode": "PINJ",
-    "latitude": -31.658787,
-    "longitude": 115.776057,
-    "Route trip": 3,
+    "lat": -31.658787,
+    "lon": 115.776057,
+    "Routetrip": 3,
     "Date": [
       "2023-01-01",
       "2023-01-02",
@@ -74641,9 +74641,9 @@ var alldata = {
   },
   "PI001": {
     "stationCode": "PI001",
-    "latitude": -32.695554,
-    "longitude": 115.916265,
-    "Route trip": 1,
+    "lat": -32.695554,
+    "lon": 115.916265,
+    "Routetrip": 1,
     "Date": [
       "2023-01-01",
       "2023-01-02",
@@ -75101,9 +75101,9 @@ var alldata = {
   },
   "PO001": {
     "stationCode": "PO001",
-    "latitude": -32.65273683,
-    "longitude": 117.088849,
-    "Route trip": 0,
+    "lat": -32.65273683,
+    "lon": 117.088849,
+    "Routetrip": 0,
     "Date": [
       "2023-01-01",
       "2023-01-02",
@@ -75561,9 +75561,9 @@ var alldata = {
   },
   "QD001": {
     "stationCode": "QD001",
-    "latitude": -32.0062,
-    "longitude": 117.4165,
-    "Route trip": 4,
+    "lat": -32.0062,
+    "lon": 117.4165,
+    "Routetrip": 4,
     "Date": [
       "2023-01-01",
       "2023-01-02",
@@ -76021,9 +76021,9 @@ var alldata = {
   },
   "QA001": {
     "stationCode": "QA001",
-    "latitude": -33.8821,
-    "longitude": 116.84215,
-    "Route trip": 0,
+    "lat": -33.8821,
+    "lon": 116.84215,
+    "Routetrip": 0,
     "Date": [
       "2023-01-01",
       "2023-01-02",
@@ -76481,9 +76481,9 @@ var alldata = {
   },
   "DM002": {
     "stationCode": "DM002",
-    "latitude": -34.905084,
-    "longitude": 117.377723,
-    "Route trip": 1,
+    "lat": -34.905084,
+    "lon": 117.377723,
+    "Routetrip": 1,
     "Date": [
       "2023-06-02",
       "2023-06-03",
@@ -76913,9 +76913,9 @@ var alldata = {
   },
   "QP001": {
     "stationCode": "QP001",
-    "latitude": -34.445522,
-    "longitude": 116.233982,
-    "Route trip": 3,
+    "lat": -34.445522,
+    "lon": 116.233982,
+    "Routetrip": 3,
     "Date": [
       "2023-01-01",
       "2023-01-02",
@@ -77373,9 +77373,9 @@ var alldata = {
   },
   "RA": {
     "stationCode": "RA",
-    "latitude": -33.435863,
-    "longitude": 119.730175,
-    "Route trip": 0,
+    "lat": -33.435863,
+    "lon": 119.730175,
+    "Routetrip": 0,
     "Date": [
       "2023-01-01",
       "2023-01-02",
@@ -77833,9 +77833,9 @@ var alldata = {
   },
   "RA002": {
     "stationCode": "RA002",
-    "latitude": -33.636636,
-    "longitude": 120.054372,
-    "Route trip": 4,
+    "lat": -33.636636,
+    "lon": 120.054372,
+    "Routetrip": 4,
     "Date": [
       "2023-01-01",
       "2023-01-02",
@@ -78251,9 +78251,9 @@ var alldata = {
   },
   "RF001": {
     "stationCode": "RF001",
-    "latitude": -31.00103,
-    "longitude": 115.680233,
-    "Route trip": 1,
+    "lat": -31.00103,
+    "lon": 115.680233,
+    "Routetrip": 1,
     "Date": [
       "2023-01-01",
       "2023-01-02",
@@ -78711,9 +78711,9 @@ var alldata = {
   },
   "LR001": {
     "stationCode": "LR001",
-    "latitude": -33.168906,
-    "longitude": 121.918862,
-    "Route trip": 4,
+    "lat": -33.168906,
+    "lon": 121.918862,
+    "Routetrip": 4,
     "Date": [
       "2023-01-01",
       "2023-01-02",
@@ -79161,9 +79161,9 @@ var alldata = {
   },
   "ROGR": {
     "stationCode": "ROGR",
-    "latitude": -31.69527,
-    "longitude": 116.3184,
-    "Route trip": 0,
+    "lat": -31.69527,
+    "lon": 116.3184,
+    "Routetrip": 0,
     "Date": [
       "2023-05-29",
       "2023-06-12",
@@ -79211,9 +79211,9 @@ var alldata = {
   },
   "RB001": {
     "stationCode": "RB001",
-    "latitude": -33.936255,
-    "longitude": 115.219066,
-    "Route trip": 3,
+    "lat": -33.936255,
+    "lon": 115.219066,
+    "Routetrip": 3,
     "Date": [
       "2023-01-01",
       "2023-01-02",
@@ -79671,9 +79671,9 @@ var alldata = {
   },
   "SG": {
     "stationCode": "SG",
-    "latitude": -32.997093,
-    "longitude": 121.622136,
-    "Route trip": 4,
+    "lat": -32.997093,
+    "lon": 121.622136,
+    "Routetrip": 4,
     "Date": [
       "2023-01-01",
       "2023-01-02",
@@ -80131,9 +80131,9 @@ var alldata = {
   },
   "SC": {
     "stationCode": "SC",
-    "latitude": -33.426189,
-    "longitude": 121.619638,
-    "Route trip": 4,
+    "lat": -33.426189,
+    "lon": 121.619638,
+    "Routetrip": 4,
     "Date": [
       "2023-01-01",
       "2023-01-02",
@@ -80591,9 +80591,9 @@ var alldata = {
   },
   "SR001": {
     "stationCode": "SR001",
-    "latitude": -34.25065,
-    "longitude": 115.28935,
-    "Route trip": 1,
+    "lat": -34.25065,
+    "lon": 115.28935,
+    "Routetrip": 1,
     "Date": [
       "2023-01-01",
       "2023-01-02",
@@ -81051,9 +81051,9 @@ var alldata = {
   },
   "SH001": {
     "stationCode": "SH001",
-    "latitude": -31.9456,
-    "longitude": 117.8383,
-    "Route trip": 4,
+    "lat": -31.9456,
+    "lon": 117.8383,
+    "Routetrip": 4,
     "Date": [
       "2023-01-01",
       "2023-01-02",
@@ -81511,9 +81511,9 @@ var alldata = {
   },
   "SP": {
     "stationCode": "SP",
-    "latitude": -31.991043,
-    "longitude": 115.886068,
-    "Route trip": 1,
+    "lat": -31.991043,
+    "lon": 115.886068,
+    "Routetrip": 1,
     "Date": [
       "2023-01-01",
       "2023-01-02",
@@ -81971,9 +81971,9 @@ var alldata = {
   },
   "SN001": {
     "stationCode": "SN001",
-    "latitude": -34.22785,
-    "longitude": 117.915,
-    "Route trip": 4,
+    "lat": -34.22785,
+    "lon": 117.915,
+    "Routetrip": 4,
     "Date": [
       "2023-01-01",
       "2023-01-02",
@@ -82431,9 +82431,9 @@ var alldata = {
   },
   "PL001": {
     "stationCode": "PL001",
-    "latitude": -34.553593,
-    "longitude": 117.928297,
-    "Route trip": 3,
+    "lat": -34.553593,
+    "lon": 117.928297,
+    "Routetrip": 3,
     "Date": [
       "2023-01-01",
       "2023-01-02",
@@ -82891,9 +82891,9 @@ var alldata = {
   },
   "TA001": {
     "stationCode": "TA001",
-    "latitude": -31.587308,
-    "longitude": 117.47004,
-    "Route trip": 4,
+    "lat": -31.587308,
+    "lon": 117.47004,
+    "Routetrip": 4,
     "Date": [
       "2023-01-01",
       "2023-01-02",
@@ -83347,9 +83347,9 @@ var alldata = {
   },
   "TST01": {
     "stationCode": "TST01",
-    "latitude": -32.012226,
-    "longitude": 116.034012,
-    "Route trip": 3,
+    "lat": -32.012226,
+    "lon": 116.034012,
+    "Routetrip": 3,
     "Date": [
       "2023-01-01",
       "2023-01-02",
@@ -83761,25 +83761,25 @@ var alldata = {
   },
   "TST02": {
     "stationCode": "TST02",
-    "latitude": -31.991043,
-    "longitude": 115.8835,
-    "Route trip": 1,
+    "lat": -31.991043,
+    "lon": 115.8835,
+    "Routetrip": 1,
     "Date": [],
     "Rain": []
   },
   "TST03": {
     "stationCode": "TST03",
-    "latitude": -31.991043,
-    "longitude": 115.88475,
-    "Route trip": 4,
+    "lat": -31.991043,
+    "lon": 115.88475,
+    "Routetrip": 4,
     "Date": [],
     "Rain": []
   },
   "TS001": {
     "stationCode": "TS001",
-    "latitude": -29.52322,
-    "longitude": 115.85893,
-    "Route trip": 4,
+    "lat": -29.52322,
+    "lon": 115.85893,
+    "Routetrip": 4,
     "Date": [
       "2023-01-01",
       "2023-01-02",
@@ -84237,9 +84237,9 @@ var alldata = {
   },
   "WI": {
     "stationCode": "WI",
-    "latitude": -32.893437,
-    "longitude": 117.77261,
-    "Route trip": 0,
+    "lat": -32.893437,
+    "lon": 117.77261,
+    "Routetrip": 0,
     "Date": [
       "2023-01-01",
       "2023-01-02",
@@ -84697,9 +84697,9 @@ var alldata = {
   },
   "TB001": {
     "stationCode": "TB001",
-    "latitude": -34.22258,
-    "longitude": 116.70422,
-    "Route trip": 4,
+    "lat": -34.22258,
+    "lon": 116.70422,
+    "Routetrip": 4,
     "Date": [
       "2023-01-01",
       "2023-01-02",
@@ -85157,9 +85157,9 @@ var alldata = {
   },
   "TW001": {
     "stationCode": "TW001",
-    "latitude": -31.1151,
-    "longitude": 117.7207,
-    "Route trip": 0,
+    "lat": -31.1151,
+    "lon": 117.7207,
+    "Routetrip": 0,
     "Date": [
       "2023-01-01",
       "2023-01-02",
@@ -85617,9 +85617,9 @@ var alldata = {
   },
   "TU003": {
     "stationCode": "TU003",
-    "latitude": -34.120578,
-    "longitude": 117.339845,
-    "Route trip": 0,
+    "lat": -34.120578,
+    "lon": 117.339845,
+    "Routetrip": 0,
     "Date": [
       "2023-01-01",
       "2023-01-02",
@@ -86077,9 +86077,9 @@ var alldata = {
   },
   "VA": {
     "stationCode": "VA",
-    "latitude": -33.752861,
-    "longitude": 115.359807,
-    "Route trip": 1,
+    "lat": -33.752861,
+    "lon": 115.359807,
+    "Routetrip": 1,
     "Date": [
       "2023-01-01",
       "2023-01-02",
@@ -86537,9 +86537,9 @@ var alldata = {
   },
   "WA001": {
     "stationCode": "WA001",
-    "latitude": -33.317465,
-    "longitude": 117.356935,
-    "Route trip": 4,
+    "lat": -33.317465,
+    "lon": 117.356935,
+    "Routetrip": 4,
     "Date": [
       "2023-01-01",
       "2023-01-02",
@@ -86997,9 +86997,9 @@ var alldata = {
   },
   "WN": {
     "stationCode": "WN",
-    "latitude": -31.583153,
-    "longitude": 115.694155,
-    "Route trip": 1,
+    "lat": -31.583153,
+    "lon": 115.694155,
+    "Routetrip": 1,
     "Date": [
       "2023-01-01",
       "2023-01-02",
@@ -87457,9 +87457,9 @@ var alldata = {
   },
   "WR": {
     "stationCode": "WR",
-    "latitude": -32.856145,
-    "longitude": 115.894339,
-    "Route trip": 1,
+    "lat": -32.856145,
+    "lon": 115.894339,
+    "Routetrip": 1,
     "Date": [
       "2023-01-01",
       "2023-01-02",
@@ -87881,9 +87881,9 @@ var alldata = {
   },
   "ML001": {
     "stationCode": "ML001",
-    "latitude": -30.039117,
-    "longitude": 115.49881,
-    "Route trip": 0,
+    "lat": -30.039117,
+    "lon": 115.49881,
+    "Routetrip": 0,
     "Date": [
       "2023-01-01",
       "2023-01-02",
@@ -88341,9 +88341,9 @@ var alldata = {
   },
   "WO001": {
     "stationCode": "WO001",
-    "latitude": -30.30683,
-    "longitude": 116.070767,
-    "Route trip": 0,
+    "lat": -30.30683,
+    "lon": 116.070767,
+    "Routetrip": 0,
     "Date": [
       "2023-01-01",
       "2023-01-02",
@@ -88801,9 +88801,9 @@ var alldata = {
   },
   "WT001": {
     "stationCode": "WT001",
-    "latitude": -32.16302,
-    "longitude": 115.831704,
-    "Route trip": 1,
+    "lat": -32.16302,
+    "lon": 115.831704,
+    "Routetrip": 1,
     "Date": [
       "2023-01-01",
       "2023-01-02",
@@ -89261,9 +89261,9 @@ var alldata = {
   },
   "WE": {
     "stationCode": "WE",
-    "latitude": -34.489212,
-    "longitude": 118.619261,
-    "Route trip": 3,
+    "lat": -34.489212,
+    "lon": 118.619261,
+    "Routetrip": 3,
     "Date": [
       "2023-01-01",
       "2023-01-02",
@@ -89721,9 +89721,9 @@ var alldata = {
   },
   "WR001": {
     "stationCode": "WR001",
-    "latitude": -33.736858,
-    "longitude": 119.648352,
-    "Route trip": 4,
+    "lat": -33.736858,
+    "lon": 119.648352,
+    "Routetrip": 4,
     "Date": [
       "2023-01-01",
       "2023-01-02",
@@ -90181,9 +90181,9 @@ var alldata = {
   },
   "WS001": {
     "stationCode": "WS001",
-    "latitude": -31.2283,
-    "longitude": 118.5931,
-    "Route trip": 4,
+    "lat": -31.2283,
+    "lon": 118.5931,
+    "Routetrip": 4,
     "Date": [
       "2023-01-01",
       "2023-01-02",
@@ -90641,9 +90641,9 @@ var alldata = {
   },
   "EW": {
     "stationCode": "EW",
-    "latitude": -32.743018,
-    "longitude": 117.863876,
-    "Route trip": 0,
+    "lat": -32.743018,
+    "lon": 117.863876,
+    "Routetrip": 0,
     "Date": [
       "2023-01-01",
       "2023-01-02",
@@ -91101,9 +91101,9 @@ var alldata = {
   },
   "WI002": {
     "stationCode": "WI002",
-    "latitude": -32.7202417,
-    "longitude": 117.4948333,
-    "Route trip": 0,
+    "lat": -32.7202417,
+    "lon": 117.4948333,
+    "Routetrip": 0,
     "Date": [
       "2023-01-01",
       "2023-01-02",
@@ -91561,9 +91561,9 @@ var alldata = {
   },
   "WL001": {
     "stationCode": "WL001",
-    "latitude": -33.0368,
-    "longitude": 116.8228,
-    "Route trip": 0,
+    "lat": -33.0368,
+    "lon": 116.8228,
+    "Routetrip": 0,
     "Date": [
       "2023-01-01",
       "2023-01-02",
@@ -92021,9 +92021,9 @@ var alldata = {
   },
   "MR001": {
     "stationCode": "MR001",
-    "latitude": -33.7919,
-    "longitude": 115.06367,
-    "Route trip": 3,
+    "lat": -33.7919,
+    "lon": 115.06367,
+    "Routetrip": 3,
     "Date": [
       "2023-01-01",
       "2023-01-02",
@@ -92481,9 +92481,9 @@ var alldata = {
   },
   "WH": {
     "stationCode": "WH",
-    "latitude": -30.844029,
-    "longitude": 116.728123,
-    "Route trip": 0,
+    "lat": -30.844029,
+    "lon": 116.728123,
+    "Routetrip": 0,
     "Date": [
       "2023-01-01",
       "2023-01-02",
@@ -92941,9 +92941,9 @@ var alldata = {
   },
   "TW002": {
     "stationCode": "TW002",
-    "latitude": -28.826389,
-    "longitude": 115.513444,
-    "Route trip": 4,
+    "lat": -28.826389,
+    "lon": 115.513444,
+    "Routetrip": 4,
     "Date": [
       "2023-01-01",
       "2023-01-02",
@@ -93401,9 +93401,9 @@ var alldata = {
   },
   "WD001": {
     "stationCode": "WD001",
-    "latitude": -33.5634,
-    "longitude": 117.1732083,
-    "Route trip": 4,
+    "lat": -33.5634,
+    "lon": 117.1732083,
+    "Routetrip": 4,
     "Date": [
       "2023-01-01",
       "2023-01-02",
@@ -93861,9 +93861,9 @@ var alldata = {
   },
   "MA003": {
     "stationCode": "MA003",
-    "latitude": -34.225653,
-    "longitude": 116.017767,
-    "Route trip": 0,
+    "lat": -34.225653,
+    "lon": 116.017767,
+    "Routetrip": 0,
     "Date": [
       "2023-01-01",
       "2023-01-02",
@@ -94321,9 +94321,9 @@ var alldata = {
   },
   "YS": {
     "stationCode": "YS",
-    "latitude": -31.915622,
-    "longitude": 119.256055,
-    "Route trip": 2,
+    "lat": -31.915622,
+    "lon": 119.256055,
+    "Routetrip": 2,
     "Date": [
       "2023-01-01",
       "2023-01-02",
@@ -94781,9 +94781,9 @@ var alldata = {
   },
   "YE001": {
     "stationCode": "YE001",
-    "latitude": -31.835878,
-    "longitude": 116.921077,
-    "Route trip": 4,
+    "lat": -31.835878,
+    "lon": 116.921077,
+    "Routetrip": 4,
     "Date": [
       "2023-01-01",
       "2023-01-02",
@@ -95241,9 +95241,9 @@ var alldata = {
   },
   "YU001": {
     "stationCode": "YU001",
-    "latitude": -28.33763,
-    "longitude": 114.9898,
-    "Route trip": 0,
+    "lat": -28.33763,
+    "lon": 114.9898,
+    "Routetrip": 0,
     "Date": [
       "2023-01-01",
       "2023-01-02",
@@ -95701,9 +95701,9 @@ var alldata = {
   },
   "YU002": {
     "stationCode": "YU002",
-    "latitude": -28.200324,
-    "longitude": 115.261614,
-    "Route trip": 4,
+    "lat": -28.200324,
+    "lon": 115.261614,
+    "Routetrip": 4,
     "Date": [
       "2023-01-01",
       "2023-01-02",
