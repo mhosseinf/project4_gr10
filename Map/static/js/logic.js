@@ -69,7 +69,7 @@ function createMarkers(data) {
                 className: markerClass, // Use marker class for styling
             })
         }).bindPopup(
-            `<h3>Station Code:${station.stationCode}</h3><h3>Routetrip: ${station.Routetrip}</h3><h3>Rain: ${station.Rain}</h3>`
+            `<h3>Station Code:${station.stationCode}</h3><h3>Routetrip: ${station.Routetrip}</h3><h3>Rain: ${station.Rain}</h3><h3>PRain: ${station.PerdictRain}</h3>`
         );
 
         // Add the marker to the RoutetripMarkers array.
