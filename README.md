@@ -18,6 +18,14 @@
 
 # 3-Machine learning- 
 	## 3-1 rain forecast- Hieu
+ 		### 3-1-1: We read and transformed the locally stored `raindata.csv` into a PySpark DataFrame using Spark.
+
+  		### 3-1-2: We removed any null values in the DataFrame and converted it into a Pandas DataFrame.
+
+  		### 3-1-3: We trained a rainfall prediction model for 365 days using scikit-learn, TensorFlow, and Keras_Tuner.
+
+  		### 3-1-4: Despite experimenting with various activations and classifications, the model achieved an accuracy of approximately 64%.
+    
 	## 3-2 Site visit route trips- Hossein
 # 4-Map- hossein
 	## 4-1 jasonify data
