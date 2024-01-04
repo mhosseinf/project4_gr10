@@ -10,12 +10,15 @@
   <!-- Leaflet CSS -->
   <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css"
      integrity="sha256-p4NxAoJBhIIN+hmNHrzRCf9tD/miZyoHS5obTRR9BMY="
-  crossorigin=""/>
+     crossorigin=""/>
 
   <!-- Leaflet JavaScript code -->
   <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"
      integrity="sha256-20nQCchB9co0qIjJZRGuk2/Z9VM+kNiyxNV1lvTlZBo="
-  crossorigin=""></script>
+     crossorigin=""></script>
+
+  <!-- Plotly JavaScript code -->
+  <script src="https://cdn.plot.ly/plotly-latest.min.js"></script>
 
   <!-- Our CSS -->
   <link rel="stylesheet" type="text/css" href="static/css/style.css">
@@ -25,9 +28,19 @@
   <!-- The div that holds our map -->
   <div id="map-id"></div>
 
+  <!-- Dropdown for station selection -->
+  <div id="dropdown-container">
+    <label for="stationDropdown">Select a Station:</label>
+    <select id="stationDropdown"></select>
+  </div>
+
+  <!-- Container for the line chart -->
+  <div id="line-chart-container">
+    <div id="line-chart"></div>
+  </div>
+
   <!-- Our JavaScript file -->
   <script type="text/javascript" src="static/data/data.js"></script>
   <script type="text/javascript" src="static/js/logic.js"></script>
 </body>
-
 </html>
