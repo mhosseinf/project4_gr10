@@ -20,7 +20,7 @@ function createMap(layerGroups) {
     // Create the map object with options.
     let map = L.map("map-id", {
         center: [-31.9505, 115.8605],
-        zoom: 7,
+        zoom: 8,
         layers: [streetmap, ...layerGroups]  // Spread the layerGroups array elements
     });
 
@@ -29,16 +29,80 @@ function createMap(layerGroups) {
         collapsed: false
     }).addTo(map);
 }
+// Function to create the line chart
+function createLineChart(data, selectedStationCode) {
+    // Find the selected station data using the provided station code
+    let selectedStation = Object.values(data).find(station => station.stationCode === selectedStationCode);
+
+    // Extract date and rain data for the selected station
+    let dates = Object.keys(selectedStation.Date);
+    let rainData = Object.values(selectedStation.Rain);
+    let PrainData = Object.values(selectedStation.PerdictRain);
+
+    // console.log("Dates:", dates);
+    // console.log("Rain Data:", rainData);
+    // console.log("PRain Data:", PrainData);
+    
+    // Create the line chart data
+    let plotData = [{
+        x: dates,
+        y: rainData,
+        type: 'line',
+        name: 'Rainfall'
+    },
+    {
+        x: dates,
+        y: PrainData,
+        type: 'line',
+        name: 'PRainfall'
+    }];
+    
+    let Layout = {
+        title: `Rainfall Over Time for Station ${selectedStationCode}`
+    };
+    
+    // Plot the line chart
+    Plotly.newPlot('line-chart', plotData, Layout);
+}
+
+// Function to create the dropdown
+function createDropdown(data) {
+    // Create a dropdown for station selection.
+    let dropdown = d3.select("#map-id").append("select")
+        .attr("id", "stationDropdown")
+        .style("position", "absolute")
+        .style("top", "10%")
+        .style("left", "10%")
+        .on("change", function () {
+            // Get the selected station value
+            let selectedStationCode = d3.select(this).property("value");
+            // Call the function to update the line chart based on the selected station
+            createLineChart(data, selectedStationCode);
+        });
+
+    // Add default option
+    dropdown.append("option")
+        .attr("value", "")
+        .text("Select a Station");
+
+    // Get an array of station objects from the data and sort them alphabetically
+    let stations = Object.values(data).sort((a, b) => a.stationCode.localeCompare(b.stationCode));
+
+    // Loop through the sorted station objects and add options to the dropdown
+    stations.forEach(station => {
+        dropdown.append("option")
+            .attr("value", station.stationCode)
+            .text(station.stationCode);
+    });
+
+    return dropdown;
+}
+
+
+// Function to create markers and map
 function createMarkers(data) {
-    // Initialize an array to hold Routetrip markers.
     let RoutetripMarkers = [];
-
-    console.log("Fetched data:", data);
-    // Get an array of station objects from the data.
     let stations = Object.values(data);
-    console.log("Fetched stations:", stations);
-
-    // Find the maximum Routetrip value
     let maxRoutetrip = Math.max(...stations.map(station => station.Routetrip), 0);
 
     // Generate the dynamic CSS for Routetrip values
@@ -56,6 +120,12 @@ function createMarkers(data) {
     styleTag.innerHTML = dynamicCSS;
     document.head.appendChild(styleTag);
 
+    // Create an array to store data for the line chart.
+    let chartData = [];
+
+    // Create a dropdown for station selection.
+    let dropdown = createDropdown(data);
+
     // Loop through the station objects.
     for (let i = 0; i < stations.length; i++) {
         let station = stations[i];
@@ -68,8 +138,8 @@ function createMarkers(data) {
             icon: L.divIcon({
                 className: markerClass, // Use marker class for styling
             })
-        }).bindPopup(
-            `<h3>Station Code:${station.stationCode}</h3><h3>Routetrip: ${station.Routetrip}</h3><h3>Rain: ${station.Rain}</h3><h3>PRain: ${station.PerdictRain}</h3>`
+        }).bindTooltip(
+            `<h3>Station Code:${station.stationCode}</h3><h3>Routetrip: ${station.Routetrip}</h3>`
         );
 
         // Add the marker to the RoutetripMarkers array.

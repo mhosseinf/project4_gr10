@@ -1,7 +1,35 @@
-html,
-body,
+html, body, #map-container, #lineChartContainer {
+  height: 100%;
+  margin: 0;
+}
+
+#map-container {
+  position: relative;
+}
+
 #map-id {
   height: 100%;
-  padding: 0;
-  margin: 0;
+}
+
+#stationDropdown {
+  position: absolute;
+  top: 5px;
+  left: 5px;
+  z-index: 1000;
+}
+
+#line-chart-container {
+  position: absolute;
+  top: 200px;
+  left: 5px;
+  z-index: 1000;
+  background-color: #fff;
+  padding: 10px;
+  border: 1px solid #ccc;
+}
+
+/* Style the line chart itself */
+#line-chart {
+  width: 100%; /* Make the chart container take full width */
+  height: 300px; /* Set a fixed height for the chart */
 }
