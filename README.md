@@ -10,11 +10,11 @@
 	## 1-7 limitation
 
 # 2-Import data-API Hieu
-	## 2-1: Obtain an API key from the Department of Primary Industries and Regional Development website at https://www.wa.gov.au/organisation/department-of-primary-industries-and-regional-development.
+	## 2-1: We bbtained an API key from the Department of Primary Industries and Regional Development website at https://www.wa.gov.au/organisation/department-of-primary-industries-and-regional-development.
 
-	## 2-2: Send an API request to retrieve rain data, including rainfall, humidity, average air temperature, and average wind speed.
+	## 2-2: We sent an API request to retrieve rain data, including rainfall, humidity, average air temperature, and average wind speed.
 
-	## 2-3: Successfully retrieve 365 days of data from 225 weather stations across WA. Save it as raindata.csv and prepare it for machine learning.
+	## 2-3: We successfully retrieved 365 days of data from 225 weather stations across WA. Saved it as raindata.csv and prepared it for machine learning.
 
 # 3-Machine learning- 
 	## 3-1 rain forecast- Hieu
