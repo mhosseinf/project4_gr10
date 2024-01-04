@@ -1,4 +1,26 @@
 # project4_gr10
+#Content
+# 1-Project background-Foluke
+	## 1-1 Title of projects
+	## 1-2 objectives
+	## 1-3 Scope
+	## 1-4 methodology
+	## 1-5 Data analysis
+	## 1-6 visualisation
+	## 1-7 limitation
+
+# 2-Import data-API- Hieu
+
+# 3-Machine learning- 
+	## 3-1 rain forecast- Hieu
+	## 3-2 Site visit route trips- Hossein
+# 4-Map- hossein
+	## 4-1 jasonify data
+	## 4-2 Javascript
+	## 4-3 HTML
+	## 4-4 CSS
+
+
 
 Rainfall forecasting involves considering various meteorological parameters. Here are some key parameters that are important for rain forecast:
 
