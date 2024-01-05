@@ -2,8 +2,9 @@
 
 ## Content
 
-| No  | Content                              | Team    |
+| No | Content                             | Team    |
 |----|-------------------------------------|---------|
+| 1  | Project details                     | Foluke  |
 | 1.1| Title of Project                    | Foluke  |
 | 1.2| Team                                | Foluke  |
 | 1.3| Tools                               | Foluke  |
@@ -91,7 +92,7 @@ Rainfall forecasting involves the analysis of various meteorological parameters 
 
 ### 2-3): We successfully retrieved 365 days of data from 225 weather stations across WA. Saved it as `raindata.csv` and prepared it for machine learning.
 
-## 3-Machine Learning-
+## 3-Machine Learning
 
 ### 3-1 Rain Forecast
 #### 3-1-1: We read and transformed the locally stored `raindata.csv` into a PySpark data frame using Spark.
@@ -104,3 +105,20 @@ Rainfall forecasting involves the analysis of various meteorological parameters 
 The Elbow Method was employed to determine the optimal number of clusters for weather station grouping. By analysing the decline in inertia with increasing cluster count, the "elbow" point was identified as the optimal balance between variance explanation and simplicity. This approach aids in selecting an appropriate cluster count for K-means clustering, providing insights into the dataset's structure.
 
 #### K-means clustering was applied to group weather stations into clusters based on their geographical coordinates. The results include predictions of station clusters, and the dataset was enhanced with the 'stations_Route_trip' column indicating the assigned cluster.
+
+
+## 4-Visualization
+
+### 4-1 Jasonify Data
+#### The Python script we developed facilitates the transformation of weather data, obtained through API calls and machine learning predictions, into a JSON format suitable for JavaScript. Utilising Pandas and NumPy, the script reads and structures information from CSV files containing weather station details and rainfall predictions. The data is organised into a dictionary, which is then converted into a JSON string, ensuring compatibility with JavaScript. The resulting JavaScript variable, 'alldata,' is stored in the 'static/data' directory, providing a seamless integration point for interactive data visualisation on the web platform.
+
+### 4-2 JavaScript
+#### The provided JavaScript code defines functions for creating an interactive map and visualisations using Leaflet and Plotly libraries. The createMap function sets up the base map, incorporates tile layers from OpenStreetMap, and dynamically adds layer groups based on the specified Routetrip values. The createLineChart function generates a line chart using Plotly, displaying rainfall data over time for a selected weather station. Additionally, the code includes a function createDropdown to generate a dropdown menu for station selection and another function createMarkers to create markers on the map with dynamic styling based on Routetrip values. The markers are added to layer groups, allowing users to toggle their visibility on the map. The JavaScript code integrates these functionalities to provide an interactive and informative web-based weather visualisation tool.
+
+
+### 4-3 HTML
+
+#### The provided HTML document defines a web page for weather station visualisation. It includes essential elements such as a Leaflet map, a dropdown for station selection, and a container for displaying a line chart. The document imports necessary libraries, including D3 for data manipulation, Leaflet for map rendering, and Plotly for creating interactive charts. The external CSS file (style.css) is linked for custom styling, enhancing the visual presentation. Additionally, the page references two JavaScript files: data.js containing the weather station data in JSON format and logic.js for the logic and functionality of the interactive map and line chart.
+
+### 4-4 CSS
+#### The CSS styles provided are designed for a responsive web page displaying weather station data. The layout ensures full-height and full-width elements for optimal viewing. The map container (#map-container) is positioned relative, and the Leaflet map (#map-id) takes 100% height. The station selection dropdown (#stationDropdown) is positioned in the top-left corner for easy access. The line chart container (#line-chart-container) is positioned below the dropdown, featuring a clean design with a white background and border. The line chart itself (#line-chart) spans the full width with a fixed height of 300 pixels. These styles contribute to an organized and visually appealing presentation of weather station information.
