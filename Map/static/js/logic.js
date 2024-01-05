@@ -34,33 +34,38 @@ function createLineChart(data, selectedStationCode) {
     // Find the selected station data using the provided station code
     let selectedStation = Object.values(data).find(station => station.stationCode === selectedStationCode);
 
-    // Extract date and rain data for the selected station
-    let dates = Object.keys(selectedStation.Date);
+    // Extract year, month, day, and rain data for the selected station
+    // let year = Object.values(selectedStation.Year);
+    // let month = Object.values(selectedStation.Month);
+    // let day = Object.values(selectedStation.Day);
+    let date = Object.values(selectedStation.Date);
     let rainData = Object.values(selectedStation.Rain);
     let PrainData = Object.values(selectedStation.PerdictRain);
 
-    // console.log("Dates:", dates);
+    // console.log("year:", year);
+    // console.log("month:", month);
+    // console.log("day:", day);
+    // console.log("date:", date);
     // console.log("Rain Data:", rainData);
     // console.log("PRain Data:", PrainData);
-    
     // Create the line chart data
     let plotData = [{
-        x: dates,
+        x: date,
         y: rainData,
         type: 'line',
         name: 'Rainfall'
     },
     {
-        x: dates,
+        x: date,
         y: PrainData,
         type: 'line',
         name: 'PRainfall'
     }];
-    
+
     let Layout = {
         title: `Rainfall Over Time for Station ${selectedStationCode}`
     };
-    
+
     // Plot the line chart
     Plotly.newPlot('line-chart', plotData, Layout);
 }
@@ -120,9 +125,7 @@ function createMarkers(data) {
     styleTag.innerHTML = dynamicCSS;
     document.head.appendChild(styleTag);
 
-    // Create an array to store data for the line chart.
-    let chartData = [];
-
+    
     // Create a dropdown for station selection.
     let dropdown = createDropdown(data);
 
