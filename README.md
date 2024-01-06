@@ -34,7 +34,7 @@
 
 ## 1-Project Details
 
-### Project Title: "PerthRainFlow Forecast and Maintenance Optimisation"
+### Project Title: "PerthRain Forecast and Maintenance Optimisation"
 ### Team: 
 - Hossein Falsafi
 - Foluke Daramola
