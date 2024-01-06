@@ -65,7 +65,8 @@ December 19, 2023, to January 9, 2024
 - Visualise the station on the map as well as the maintenance route tripes
 
 ### 1-7) Resources:
-Data source: [WA Government Department of Primary Industries and Regional Development](https://weather.agric.wa.gov.au/map).
+Data source: [WA Government Department of Primary Industries and Regional Development]
+https://weather.agric.wa.gov.au/
 
 ### 1-8) Methodology:
 
@@ -75,7 +76,7 @@ Data source: [WA Government Department of Primary Industries and Regional Develo
 - Determine the correlation between rain flow and water level.
 
 ### 1-9) Data Required for Analysis:
-Rainfall forecasting involves the analysis of various meteorological parameters crucial for predicting precipitation. Key factors include the amount and intensity of **rainfall** over specific periods, such as hourly or daily measurements. **Humidity**, expressed as *relative humidity*, plays a vital role, indicating the moisture content in the air relative to its maximum capacity at a given temperature. Warmer air temperatures can hold more moisture, influencing precipitation likelihood. **Atmospheric pressure**, particularly in *low-pressure systems*, often leads to rising air and cloud formation. **Wind speed and direction** contribute to moisture transport and precipitation patterns. **Cloud cover**, considering types and altitudes, especially *cumulonimbus clouds*, is associated with heavy rainfall. **Weather patterns**, including the interaction of air masses in *fronts*, can lead to airlifting and subsequent precipitation. **Topography** influences rainfall through *orographic lift*, as air rises over mountains, cools, and condenses moisture. **Satellite imagery** and **radar data** are essential for observing cloud patterns, detecting precipitation, and estimating intensity. **Historical data** on past rainfall patterns in a region provide valuable insights into seasonal trends, contributing to comprehensive rainfall forecasting analysis.
+Rainfall forecasting involves the analysis of various meteorological parameters crucial for predicting precipitation. Key factors include the amount and intensity of **rainfall** over specific periods, such as hourly or daily measurements. **Humidity**, expressed as *relative humidity*, plays a vital role, indicating the moisture content in the air relative to its maximum capacity at a given temperature. Warmer air temperatures can hold more moisture, influencing precipitation likelihood. **Atmospheric pressure**, particularly in *low-pressure systems*, often leads to rising air and cloud formation. **Wind speed and direction** contribute to moisture transport and precipitation patterns. **Cloud cover**, considering types and altitudes, especially *cumulonimbus clouds*,  is associated with heavy rainfall. **Weather patterns**, including the interaction of air masses in *fronts*, can lead to airlifting and subsequent precipitation. **Topography** influences rainfall through *orographic lift*, as air rises over mountains, cools, and condenses moisture. **Satellite imagery** and **radar data** are essential for observing cloud patterns, detecting precipitation, and estimating intensity. **Historical data** on past rainfall patterns in a region provide valuable insights into seasonal trends, contributing to comprehensive rainfall forecasting analysis.
 
 ### 1.10) Visualization
 ?????
@@ -107,7 +108,7 @@ The Elbow Method was employed to determine the optimal number of clusters for we
 #### K-means clustering was applied to group weather stations into clusters based on their geographical coordinates. The results include predictions of station clusters, and the dataset was enhanced with the 'stations_Route_trip' column indicating the assigned cluster.
 
 
-## 4-Visualization
+## 4-Visualisation
 
 ### 4-1 Jasonify Data
 #### The Python script we developed facilitates the transformation of weather data, obtained through API calls and machine learning predictions, into a JSON format suitable for JavaScript. Utilising Pandas and NumPy, the script reads and structures information from CSV files containing weather station details and rainfall predictions. The data is organised into a dictionary, which is then converted into a JSON string, ensuring compatibility with JavaScript. The resulting JavaScript variable, 'alldata,' is stored in the 'static/data' directory, providing a seamless integration point for interactive data visualisation on the web platform.
