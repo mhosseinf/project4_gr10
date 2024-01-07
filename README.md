@@ -84,6 +84,7 @@ Rainfall forecasting involves the analysis of various meteorological parameters 
 ### 1.11) Limitations
 - Our rain prediction model relies on crucial factors like precipitation, humidity, air temperature, and wind speed. However, it's important to note that we only have information on a few out of many factors affecting rainfall. We lack data on things like atmospheric pressure, cloud cover, weather patterns, topography, and historical rainfall patterns. This means our predictions might not capture the full picture, as these missing elements could also influence rainfall. To improve our forecasting, we'd need data on these additional factors for a more comprehensive analysis in the future.
 - Our rain forecasting model uses daily rainfall tracking, but it looks at data for only one year (365 days). This means we haven't taken into account information from previous years. It's like trying to understand a story with just a few chapters instead of the whole book. The exclusion of data from multiple years might limit our model's ability to grasp long-term weather patterns and trends. To improve our predictions, we'll need to expand our dataset to include information from multiple years, giving us a more complete picture of how rainfall behaves over time.
+- Another challenge we face is that some weather stations may be faulty or inactive, leading to insufficient data. This could impact the accuracy of our predictions, as missing or unreliable information from these stations may create gaps in our understanding of local weather conditions.
 
 ## 2-Data
 
