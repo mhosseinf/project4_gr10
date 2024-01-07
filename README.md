@@ -82,7 +82,7 @@ Rainfall forecasting involves the analysis of various meteorological parameters 
 ?????
 
 ### 1.11) Limitations
-????
+- Our rain prediction model relies on crucial factors like precipitation, humidity, air temperature, and wind speed. However, it's important to note that we only have information on a few out of many factors affecting rainfall. We lack data on things like atmospheric pressure, cloud cover, weather patterns, topography, and historical rainfall patterns. This means our predictions might not capture the full picture, as these missing elements could also influence rainfall. To improve our forecasting, we'd need data on these additional factors for a more comprehensive analysis in the future.
 
 
 ## 2-Data
