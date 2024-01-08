@@ -2,34 +2,33 @@
 
 ## Content
 
-| No | Content                             | Team    |
-|----|-------------------------------------|---------|
-| 1  | Project details                     | Foluke  |
-| 1.1| Title of Project                    | Foluke  |
-| 1.2| Team                                | Foluke  |
-| 1.3| Tools                               | Foluke  |
-| 1.4| Project Overview                    | Foluke  |
-| 1.5| Project Duration                    | Foluke  |
-| 1.6| Objectives                          | Foluke  |
-| 1.7| Resources                           | Foluke  |
-| 1.8| Methodology                         | Foluke  |
-| 1.9| Data Analysis                       | Foluke  |
-|1.10| Visualization                       | Foluke  |
-|1.11| Limitations                         | Foluke  |
-| 2  | Data                                |         |
-| 2  | Import Data - API                   | Hieu    |
-| 2.1| Sorting API Key                     | Hieu    |
-| 2.2| Developing Code                     | Hieu    |
-| 2.3| Data Cleaning                       | Hieu    |
-| 3  | Machine Learning                    |         |
-| 3.1| Rain Forecast - Hieu                | Hieu    |
-| 3.2| Site Visit Route Trips              | Hossein |
-| 4  | Visualization                       |         |
-| 4  | Map                                 | Hossein |
-| 4.1| JSONify Data                        | Hossein |
-| 4.2| JavaScript                          | Hossein |
-| 4.3| HTML                                | Hossein |
-| 4.4| CSS                                 | Hossein |
+| No | Content                             | 
+|----|-------------------------------------|
+| 1  | Project details                     | 
+| 1.1| Title of Project                    | 
+| 1.2| Team                                | 
+| 1.3| Tools                               | 
+| 1.4| Project Overview                    | 
+| 1.5| Project Duration                    |
+| 1.6| Objectives                          | 
+| 1.7| Resources                           | 
+| 1.8| Methodology                         | 
+| 1.9| Data Analysis                       | 
+|1.10| Limitations                         | 
+| 2  | Data                                | 
+| 2  | Import Data - API                   | 
+| 2.1| Sorting API Key                     | 
+| 2.2| Developing Code                     | 
+| 2.3| Data Cleaning                       | 
+| 3  | Machine Learning                    |
+| 3.1| Rain Forecast - Hieu                | 
+| 3.2| Site Visit Route Trips              | 
+| 4  | Visualization                       | 
+| 4  | Map                                 | 
+| 4.1| JSONify Data                        | 
+| 4.2| JavaScript                          | 
+| 4.3| HTML                                | 
+| 4.4| CSS                                 |
 
 
 ## 1-Project Details
@@ -78,10 +77,8 @@ https://weather.agric.wa.gov.au/
 ### 1-9) Data Required for Analysis:
 Rainfall forecasting involves the analysis of various meteorological parameters crucial for predicting precipitation. Key factors include the amount and intensity of **rainfall** over specific periods, such as hourly or daily measurements. **Humidity**, expressed as *relative humidity*, plays a vital role, indicating the moisture content in the air relative to its maximum capacity at a given temperature. Warmer air temperatures can hold more moisture, influencing precipitation likelihood. **Atmospheric pressure**, particularly in *low-pressure systems*, often leads to rising air and cloud formation. **Wind speed and direction** contribute to moisture transport and precipitation patterns. **Cloud cover**, considering types and altitudes, especially *cumulonimbus clouds*,  is associated with heavy rainfall. **Weather patterns**, including the interaction of air masses in *fronts*, can lead to airlifting and subsequent precipitation. **Topography** influences rainfall through *orographic lift*, as air rises over mountains, cools, and condenses moisture. **Satellite imagery** and **radar data** are essential for observing cloud patterns, detecting precipitation, and estimating intensity. **Historical data** on past rainfall patterns in a region provide valuable insights into seasonal trends, contributing to comprehensive rainfall forecasting analysis.
 
-### 1.10) Visualization
-?????
 
-### 1.11) Limitations
+### 1.10) Limitations
 - Our rain prediction model relies on crucial factors like precipitation, humidity, air temperature, and wind speed. However, it's important to note that we only have information on a few out of many factors affecting rainfall. We lack data on things like atmospheric pressure, cloud cover, weather patterns, topography, and historical rainfall patterns. This means our predictions might not capture the full picture, as these missing elements could also influence rainfall. To improve our forecasting, we'd need data on these additional factors for a more comprehensive analysis in the future.
 - Our rain forecasting model uses daily rainfall tracking, but it looks at data for only one year (365 days). This means we haven't taken into account information from previous years. It's like trying to understand a story with just a few chapters instead of the whole book. The exclusion of data from multiple years might limit our model's ability to grasp long-term weather patterns and trends. To improve our predictions, we'll need to expand our dataset to include information from multiple years, giving us a more complete picture of how rainfall behaves over time.
 - Another challenge we face is that some weather stations may be faulty or inactive, leading to insufficient data. This could impact the accuracy of our predictions, as missing or unreliable information from these stations may create gaps in our understanding of local weather conditions.
