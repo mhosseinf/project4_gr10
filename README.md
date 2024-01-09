@@ -25,7 +25,7 @@
 | 2.2| Developing Code                     | 
 | 2.3| Data Cleaning                       | 
 | 3  | Machine Learning                    |
-| 3.1| Rain Forecast - Hieu                | 
+| 3.1| Rain Forecast                       | 
 | 3.2| Site Visit Route Trips              | 
 | 4  | Visualization                       | 
 | 4  | Map                                 | 
